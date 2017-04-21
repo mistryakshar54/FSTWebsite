@@ -1,0 +1,2219 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'node-svm' ]
+2 info using npm@2.15.5
+3 info using node@v4.4.5
+4 verbose install initial load of E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\package.json
+5 warn package.json server@1.0.0 No description
+6 warn package.json server@1.0.0 No repository field.
+7 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\abbrev\package.json
+8 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\accepts\package.json
+9 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\amdefine\package.json
+10 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ansi\package.json
+11 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ansi-regex\package.json
+12 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ansi-styles\package.json
+13 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ansicolors\package.json
+14 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\anymatch\package.json
+15 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\are-we-there-yet\package.json
+16 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\arguments-extended\package.json
+17 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\arr-diff\package.json
+18 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\arr-flatten\package.json
+19 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\array-extended\package.json
+20 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\array-flatten\package.json
+21 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\array-unique\package.json
+22 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\arrify\package.json
+23 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\asn1\package.json
+24 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\assert-plus\package.json
+25 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\async\package.json
+26 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\async-each\package.json
+27 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\asynckit\package.json
+28 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\aws-sign2\package.json
+29 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\aws4\package.json
+30 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\balanced-match\package.json
+31 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\base64-url\package.json
+32 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\basic-auth\package.json
+33 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\bcrypt-pbkdf\package.json
+34 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\binary-extensions\package.json
+35 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\block-stream\package.json
+36 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\bluebird\package.json
+37 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\body-parser\package.json
+38 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\boom\package.json
+39 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\brace-expansion\package.json
+40 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\braces\package.json
+41 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\bson\package.json
+42 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\buffer-shims\package.json
+43 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\bytes\package.json
+44 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\cardinal\package.json
+45 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\caseless\package.json
+46 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\chalk\package.json
+47 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\chokidar\package.json
+48 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\cli-width\package.json
+49 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\combined-stream\package.json
+50 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\commander\package.json
+51 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\concat-map\package.json
+52 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\configstore\package.json
+53 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\content-disposition\package.json
+54 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\content-type\package.json
+55 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\cookie\package.json
+56 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\cookie-signature\package.json
+57 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\core-util-is\package.json
+58 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\crc\package.json
+59 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\cryptiles\package.json
+60 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\dashdash\package.json
+61 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\date-extended\package.json
+62 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\debug\package.json
+63 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\declare.js\package.json
+64 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\deep-extend\package.json
+65 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\delayed-stream\package.json
+66 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\delegates\package.json
+67 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\depd\package.json
+68 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\destroy\package.json
+69 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\duplexer\package.json
+70 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\duplexify\package.json
+71 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ecc-jsbn\package.json
+72 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ee-first\package.json
+73 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\encodeurl\package.json
+74 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\end-of-stream\package.json
+75 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\es6-promise\package.json
+76 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\escape-html\package.json
+77 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\escape-string-regexp\package.json
+78 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\esprima\package.json
+79 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\etag\package.json
+80 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\event-stream\package.json
+81 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\expand-brackets\package.json
+82 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\expand-range\package.json
+83 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\express\package.json
+84 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\express-session\package.json
+85 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\extend\package.json
+86 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\extended\package.json
+87 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\extender\package.json
+88 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\extglob\package.json
+89 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\extsprintf\package.json
+90 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\fast-csv\package.json
+91 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\figures\package.json
+92 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\filename-regex\package.json
+93 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\fill-range\package.json
+94 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\finalhandler\package.json
+95 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\for-in\package.json
+96 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\for-own\package.json
+97 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\forever-agent\package.json
+98 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\form-data\package.json
+99 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\forwarded\package.json
+100 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\fresh\package.json
+101 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\from\package.json
+102 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\fs.realpath\package.json
+103 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\fstream\package.json
+104 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\gauge\package.json
+105 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\generate-function\package.json
+106 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\generate-object-property\package.json
+107 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\getmdl-select\package.json
+108 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\getpass\package.json
+109 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\glob\package.json
+110 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\glob-base\package.json
+111 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\glob-parent\package.json
+112 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\got\package.json
+113 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\graceful-fs\package.json
+114 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\graceful-readlink\package.json
+115 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\handlebars\package.json
+116 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\har-validator\package.json
+117 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\has-ansi\package.json
+118 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\has-unicode\package.json
+119 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\hawk\package.json
+120 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\hoek\package.json
+121 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\hooks-fixed\package.json
+122 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\http-errors\package.json
+123 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\http-signature\package.json
+124 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\iconv-lite\package.json
+125 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ignore-by-default\package.json
+126 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\imurmurhash\package.json
+127 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\infinity-agent\package.json
+128 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\inflight\package.json
+129 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\inherits\package.json
+130 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ini\package.json
+131 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\inquirer\package.json
+132 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ipaddr.js\package.json
+133 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-binary-path\package.json
+134 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-buffer\package.json
+135 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-dotfile\package.json
+136 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-equal-shallow\package.json
+137 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-extendable\package.json
+138 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-extended\package.json
+139 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-extglob\package.json
+140 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-finite\package.json
+141 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-glob\package.json
+142 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-my-json-valid\package.json
+143 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-npm\package.json
+144 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-number\package.json
+145 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-posix-bracket\package.json
+146 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-primitive\package.json
+147 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-property\package.json
+148 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-redirect\package.json
+149 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-stream\package.json
+150 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\is-typedarray\package.json
+151 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\isarray\package.json
+152 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\isexe\package.json
+153 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\isobject\package.json
+154 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\isstream\package.json
+155 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\jodid25519\package.json
+156 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\jsbn\package.json
+157 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\json-schema\package.json
+158 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\json-stringify-safe\package.json
+159 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\jsonpointer\package.json
+160 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\jsprim\package.json
+161 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\kareem\package.json
+162 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\kind-of\package.json
+163 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\latest-version\package.json
+164 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash\package.json
+165 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash._baseassign\package.json
+166 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash._basecopy\package.json
+167 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash._bindcallback\package.json
+168 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash._createassigner\package.json
+169 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash._getnative\package.json
+170 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash._isiterateecall\package.json
+171 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.assign\package.json
+172 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.defaults\package.json
+173 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.isarguments\package.json
+174 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.isarray\package.json
+175 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.keys\package.json
+176 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.pad\package.json
+177 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.padend\package.json
+178 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.padstart\package.json
+179 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lodash.restparam\package.json
+180 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lowercase-keys\package.json
+181 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\lru-cache\package.json
+182 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\map-stream\package.json
+183 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\material-design-lite\package.json
+184 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\material-timepicker\package.json
+185 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\media-typer\package.json
+186 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\merge-descriptors\package.json
+187 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\methods\package.json
+188 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\micromatch\package.json
+189 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mime\package.json
+190 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mime-db\package.json
+191 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mime-types\package.json
+192 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\minimatch\package.json
+193 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\minimist\package.json
+194 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mkdirp\package.json
+195 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\moment\package.json
+196 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mongodb\package.json
+197 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mongodb-core\package.json
+198 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mongoose\package.json
+199 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\morgan\package.json
+200 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mout\package.json
+201 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mpath\package.json
+202 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mpromise\package.json
+203 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mquery\package.json
+204 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ms\package.json
+205 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\muri\package.json
+206 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\mute-stream\package.json
+207 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\nan\package.json
+208 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\natives\package.json
+209 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\negotiator\package.json
+210 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\nested-error-stacks\package.json
+211 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-gyp\package.json
+212 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\package.json
+213 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-uuid\package.json
+214 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\nodemon\package.json
+215 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\nopt\package.json
+216 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\normalize-path\package.json
+217 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\npmlog\package.json
+218 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\number-is-nan\package.json
+219 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\numeric\package.json
+220 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\oauth-sign\package.json
+221 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\object-assign\package.json
+222 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\object-extended\package.json
+223 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\object.omit\package.json
+224 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\on-finished\package.json
+225 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\on-headers\package.json
+226 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\once\package.json
+227 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\optimist\package.json
+228 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\os-homedir\package.json
+229 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\os-tmpdir\package.json
+230 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\osenv\package.json
+231 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\package-json\package.json
+232 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\parse-glob\package.json
+233 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\parseurl\package.json
+234 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\path-is-absolute\package.json
+235 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\path-to-regexp\package.json
+236 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\pause-stream\package.json
+237 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\pinkie\package.json
+238 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\pinkie-promise\package.json
+239 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\prepend-http\package.json
+240 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\preserve\package.json
+241 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\process-nextick-args\package.json
+242 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\promptly\package.json
+243 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\proxy-addr\package.json
+244 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\ps-tree\package.json
+245 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\punycode\package.json
+246 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\q\package.json
+247 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\qs\package.json
+248 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\random-bytes\package.json
+249 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\randomatic\package.json
+250 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\range-parser\package.json
+251 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\raw-body\package.json
+252 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\rc\package.json
+253 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\read\package.json
+254 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\read-all-stream\package.json
+255 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\readable-stream\package.json
+256 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\readdirp\package.json
+257 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\readline2\package.json
+258 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\redeyed\package.json
+259 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\regex-cache\package.json
+260 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\regexp-clone\package.json
+261 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\registry-url\package.json
+262 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\repeat-element\package.json
+263 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\repeat-string\package.json
+264 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\repeating\package.json
+265 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\request\package.json
+266 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\require_optional\package.json
+267 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\resolve-from\package.json
+268 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\rimraf\package.json
+269 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\rx\package.json
+270 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\semver\package.json
+271 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\semver-diff\package.json
+272 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\send\package.json
+273 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\serve-static\package.json
+274 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\set-immediate-shim\package.json
+275 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\setprototypeof\package.json
+276 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\sigmund\package.json
+277 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\sliced\package.json
+278 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\slide\package.json
+279 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\sntp\package.json
+280 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\source-map\package.json
+281 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\split\package.json
+282 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\sshpk\package.json
+283 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\statuses\package.json
+284 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\stream-combiner\package.json
+285 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\stream-shift\package.json
+286 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\string-extended\package.json
+287 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\string-length\package.json
+288 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\string_decoder\package.json
+289 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\stringify-object\package.json
+290 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\stringstream\package.json
+291 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\strip-ansi\package.json
+292 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\strip-json-comments\package.json
+293 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\supports-color\package.json
+294 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\svm\package.json
+295 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\tar\package.json
+296 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\through\package.json
+297 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\timed-out\package.json
+298 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\touch\package.json
+299 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\tough-cookie\package.json
+300 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\tunnel-agent\package.json
+301 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\tweetnacl\package.json
+302 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\type-is\package.json
+303 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\uglify-js\package.json
+304 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\uid-safe\package.json
+305 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\undefsafe\package.json
+306 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\underscore\package.json
+307 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\unpipe\package.json
+308 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\update-notifier\package.json
+309 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\util-deprecate\package.json
+310 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\utils-merge\package.json
+311 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\uuid\package.json
+312 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\vary\package.json
+313 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\verror\package.json
+314 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\which\package.json
+315 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\wordwrap\package.json
+316 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\wrappy\package.json
+317 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\write-file-atomic\package.json
+318 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\xdg-basedir\package.json
+319 verbose installManyTop reading scoped package data from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\xtend\package.json
+320 info package.json arr-flatten@1.0.1 license should be a valid SPDX license expression
+321 info package.json array-unique@0.2.1 license should be a valid SPDX license expression
+322 info package.json bcrypt-pbkdf@1.0.0 No repository field.
+323 info package.json duplexer@0.1.1 No license field.
+324 info package.json esprima@1.0.4 No license field.
+325 info package.json extsprintf@1.0.2 No license field.
+326 info package.json filename-regex@2.0.0 license should be a valid SPDX license expression
+327 info package.json glob-base@0.3.0 license should be a valid SPDX license expression
+328 info package.json hooks-fixed@1.1.0 No license field.
+329 info package.json is-primitive@2.0.0 license should be a valid SPDX license expression
+330 info package.json jsbn@0.1.0 license should be a valid SPDX license expression
+331 info package.json json-schema@0.2.3 No license field.
+332 info package.json kareem@1.0.1 license should be a valid SPDX license expression
+333 info package.json map-stream@0.1.0 No license field.
+334 info package.json mime@1.3.4 No license field.
+335 info package.json ms@0.7.1 No license field.
+336 info package.json mute-stream@0.0.4 license should be a valid SPDX license expression
+337 info package.json node-gyp@1.0.3 No license field.
+338 info package.json node-uuid@1.4.7 No license field.
+339 info package.json nopt@1.0.10 license should be a valid SPDX license expression
+340 info package.json numeric@1.2.6 No license field.
+341 info package.json optimist@0.6.1 license should be a valid SPDX license expression
+342 info package.json pause-stream@0.0.11 license should be a valid SPDX license expression
+343 info package.json preserve@0.2.0 license should be a valid SPDX license expression
+344 info package.json punycode@1.4.1 punycode is also the name of a node core module.
+345 info package.json q@1.4.1 license should be a valid SPDX license expression
+346 info package.json repeat-element@1.1.2 license should be a valid SPDX license expression
+347 info package.json sntp@1.0.9 No license field.
+348 info package.json source-map@0.1.43 No license field.
+349 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+350 info package.json stringify-object@1.0.1 license should be a valid SPDX license expression
+351 info package.json tar@1.0.3 license should be a valid SPDX license expression
+352 info package.json svm@0.1.1 No license field.
+353 info package.json uglify-js@2.3.6 No license field.
+354 info package.json undefsafe@0.0.3 license should be a valid SPDX license expression
+355 info package.json utils-merge@1.0.0 No license field.
+356 info package.json verror@1.3.6 No license field.
+357 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\package.json
+358 verbose install node-svm is installed as 2.1.8
+359 silly cache add args [ 'node-svm@^2.1.8', null ]
+360 verbose cache add spec node-svm@^2.1.8
+361 silly cache add parsed spec Result {
+361 silly cache add   raw: 'node-svm@^2.1.8',
+361 silly cache add   scope: null,
+361 silly cache add   name: 'node-svm',
+361 silly cache add   rawSpec: '^2.1.8',
+361 silly cache add   spec: '>=2.1.8 <3.0.0',
+361 silly cache add   type: 'range' }
+362 silly addNamed node-svm@>=2.1.8 <3.0.0
+363 verbose addNamed ">=2.1.8 <3.0.0" is a valid semver range for node-svm
+364 silly addNameRange { name: 'node-svm', range: '>=2.1.8 <3.0.0', hasData: false }
+365 silly mapToRegistry name node-svm
+366 silly mapToRegistry using default registry
+367 silly mapToRegistry registry https://registry.npmjs.org/
+368 silly mapToRegistry data Result {
+368 silly mapToRegistry   raw: 'node-svm',
+368 silly mapToRegistry   scope: null,
+368 silly mapToRegistry   name: 'node-svm',
+368 silly mapToRegistry   rawSpec: '',
+368 silly mapToRegistry   spec: 'latest',
+368 silly mapToRegistry   type: 'tag' }
+369 silly mapToRegistry uri https://registry.npmjs.org/node-svm
+370 verbose addNameRange registry:https://registry.npmjs.org/node-svm not in flight; fetching
+371 verbose request uri https://registry.npmjs.org/node-svm
+372 verbose request no auth needed
+373 info attempt registry request try #1 at 11:18:33 PM
+374 verbose request id acd91d20357d2bcc
+375 http request GET https://registry.npmjs.org/node-svm
+376 http 200 https://registry.npmjs.org/node-svm
+377 verbose headers { server: 'nginx/1.10.1',
+377 verbose headers   'content-type': 'application/json',
+377 verbose headers   'last-modified': 'Mon, 14 Nov 2016 06:08:36 GMT',
+377 verbose headers   etag: 'W/"582954e4-ef9f"',
+377 verbose headers   'content-encoding': 'gzip',
+377 verbose headers   'cache-control': 'max-age=300',
+377 verbose headers   'content-length': '8082',
+377 verbose headers   'accept-ranges': 'bytes',
+377 verbose headers   date: 'Thu, 17 Nov 2016 17:48:29 GMT',
+377 verbose headers   via: '1.1 varnish',
+377 verbose headers   age: '0',
+377 verbose headers   connection: 'keep-alive',
+377 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+377 verbose headers   'x-cache': 'MISS',
+377 verbose headers   'x-cache-hits': '0',
+377 verbose headers   'x-timer': 'S1479404909.308010,VS0,VE104',
+377 verbose headers   vary: 'Accept-Encoding' }
+378 silly get cb [ 200,
+378 silly get   { server: 'nginx/1.10.1',
+378 silly get     'content-type': 'application/json',
+378 silly get     'last-modified': 'Mon, 14 Nov 2016 06:08:36 GMT',
+378 silly get     etag: 'W/"582954e4-ef9f"',
+378 silly get     'content-encoding': 'gzip',
+378 silly get     'cache-control': 'max-age=300',
+378 silly get     'content-length': '8082',
+378 silly get     'accept-ranges': 'bytes',
+378 silly get     date: 'Thu, 17 Nov 2016 17:48:29 GMT',
+378 silly get     via: '1.1 varnish',
+378 silly get     age: '0',
+378 silly get     connection: 'keep-alive',
+378 silly get     'x-served-by': 'cache-sin6927-SIN',
+378 silly get     'x-cache': 'MISS',
+378 silly get     'x-cache-hits': '0',
+378 silly get     'x-timer': 'S1479404909.308010,VS0,VE104',
+378 silly get     vary: 'Accept-Encoding' } ]
+379 verbose get saving node-svm to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\node-svm\.cache.json
+380 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+381 silly addNameRange number 2 { name: 'node-svm', range: '>=2.1.8 <3.0.0', hasData: true }
+382 silly addNameRange versions [ 'node-svm',
+382 silly addNameRange   [ '0.1.0',
+382 silly addNameRange     '0.1.3',
+382 silly addNameRange     '0.1.4',
+382 silly addNameRange     '0.1.5',
+382 silly addNameRange     '0.2.0',
+382 silly addNameRange     '0.2.1',
+382 silly addNameRange     '0.2.2',
+382 silly addNameRange     '0.2.3',
+382 silly addNameRange     '0.2.4',
+382 silly addNameRange     '0.2.5',
+382 silly addNameRange     '0.2.6',
+382 silly addNameRange     '0.2.7',
+382 silly addNameRange     '0.3.0',
+382 silly addNameRange     '0.3.1',
+382 silly addNameRange     '0.3.2',
+382 silly addNameRange     '0.3.3',
+382 silly addNameRange     '0.3.4',
+382 silly addNameRange     '1.0.0',
+382 silly addNameRange     '1.0.1',
+382 silly addNameRange     '1.1.0',
+382 silly addNameRange     '1.1.1',
+382 silly addNameRange     '1.2.1',
+382 silly addNameRange     '1.3.0',
+382 silly addNameRange     '2.0.0-beta',
+382 silly addNameRange     '2.0.0-beta2',
+382 silly addNameRange     '2.0.0',
+382 silly addNameRange     '2.1.0',
+382 silly addNameRange     '2.1.1',
+382 silly addNameRange     '2.1.2',
+382 silly addNameRange     '2.1.3',
+382 silly addNameRange     '2.1.4',
+382 silly addNameRange     '2.1.5',
+382 silly addNameRange     '2.1.6',
+382 silly addNameRange     '2.1.7',
+382 silly addNameRange     '2.1.8' ] ]
+383 silly addNamed node-svm@2.1.8
+384 verbose addNamed "2.1.8" is a plain semver version for node-svm
+385 silly mapToRegistry name node-svm
+386 silly mapToRegistry using default registry
+387 silly mapToRegistry registry https://registry.npmjs.org/
+388 silly mapToRegistry data Result {
+388 silly mapToRegistry   raw: 'node-svm',
+388 silly mapToRegistry   scope: null,
+388 silly mapToRegistry   name: 'node-svm',
+388 silly mapToRegistry   rawSpec: '',
+388 silly mapToRegistry   spec: 'latest',
+388 silly mapToRegistry   type: 'tag' }
+389 silly mapToRegistry uri https://registry.npmjs.org/node-svm
+390 verbose addRemoteTarball https://registry.npmjs.org/node-svm/-/node-svm-2.1.8.tgz not in flight; adding
+391 verbose addRemoteTarball [ 'https://registry.npmjs.org/node-svm/-/node-svm-2.1.8.tgz',
+391 verbose addRemoteTarball   '5e1c629637fbb8041e65379928a4802305e14157' ]
+392 info retry fetch attempt 1 at 11:18:34 PM
+393 info attempt registry request try #1 at 11:18:34 PM
+394 http fetch GET https://registry.npmjs.org/node-svm/-/node-svm-2.1.8.tgz
+395 http fetch 200 https://registry.npmjs.org/node-svm/-/node-svm-2.1.8.tgz
+396 silly fetchAndShaCheck shasum 5e1c629637fbb8041e65379928a4802305e14157
+397 verbose addTmpTarball C:\Users\Krunal\AppData\Local\Temp\npm-4640-88ac0b44\registry.npmjs.org\node-svm\-\node-svm-2.1.8.tgz not in flight; adding
+398 verbose addTmpTarball already have metadata; skipping unpack for node-svm@2.1.8
+399 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+400 silly cache afterAdd node-svm@2.1.8
+401 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\node-svm\2.1.8\package\package.json not in flight; writing
+402 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+403 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\node-svm\2.1.8\package\package.json written
+404 silly install resolved [ { name: 'node-svm',
+404 silly install resolved     version: '2.1.8',
+404 silly install resolved     description: 'Support Vector Machine for nodejs',
+404 silly install resolved     main: 'lib',
+404 silly install resolved     scripts: { test: 'grunt', install: 'node-gyp rebuild' },
+404 silly install resolved     config: { blanket: [Object] },
+404 silly install resolved     repository:
+404 silly install resolved      { type: 'git',
+404 silly install resolved        url: 'git+https://github.com/nicolaspanel/node-svm.git' },
+404 silly install resolved     keywords: [ 'svm', 'machine learning', 'libsvm' ],
+404 silly install resolved     author: { name: 'Nicolas Panel' },
+404 silly install resolved     license: 'MIT',
+404 silly install resolved     bugs: { url: 'https://github.com/nicolaspanel/node-svm/issues' },
+404 silly install resolved     homepage: 'https://github.com/nicolaspanel/node-svm',
+404 silly install resolved     dependencies:
+404 silly install resolved      { abbrev: '^1.0.5',
+404 silly install resolved        cardinal: '^0.4.4',
+404 silly install resolved        chalk: '^0.5.1',
+404 silly install resolved        'graceful-fs': '^4.1.0',
+404 silly install resolved        handlebars: '^2.0.0',
+404 silly install resolved        inquirer: '^0.8.0',
+404 silly install resolved        moment: '^2.8.4',
+404 silly install resolved        mout: '^0.11.0',
+404 silly install resolved        nan: '^2.3.3',
+404 silly install resolved        'node-gyp': '~1.0.2',
+404 silly install resolved        nopt: '~3.0.0',
+404 silly install resolved        numeric: '^1.2.6',
+404 silly install resolved        optimist: '^0.6.1',
+404 silly install resolved        osenv: '^0.1.0',
+404 silly install resolved        promptly: '^0.2.0',
+404 silly install resolved        q: '^1.1.2',
+404 silly install resolved        'stringify-object': '^1.0.0',
+404 silly install resolved        underscore: '^1.7.0' },
+404 silly install resolved     devDependencies:
+404 silly install resolved      { coveralls: '~2.11.0',
+404 silly install resolved        'expect.js': '^0.3.1',
+404 silly install resolved        grunt: '~0.4.4',
+404 silly install resolved        'grunt-cli': '^0.1.13',
+404 silly install resolved        'grunt-contrib-jshint': '~0.11.0',
+404 silly install resolved        'grunt-contrib-watch': '~0.6.1',
+404 silly install resolved        'grunt-exec': '~0.4.2',
+404 silly install resolved        'grunt-node-gyp': '^0.5.0',
+404 silly install resolved        'grunt-simple-mocha': '~0.4.0',
+404 silly install resolved        istanbul: '~0.3.2',
+404 silly install resolved        'load-grunt-tasks': '~0.6.0',
+404 silly install resolved        mocha: '~1.21.4',
+404 silly install resolved        'mocha-lcov-reporter': '0.0.1' },
+404 silly install resolved     bin: { 'node-svm': './bin/node-svm' },
+404 silly install resolved     gypfile: true,
+404 silly install resolved     gitHead: 'ee1482ad72836c9ba7717b72672fc7aa0765a9f4',
+404 silly install resolved     _id: 'node-svm@2.1.8',
+404 silly install resolved     _shasum: '5e1c629637fbb8041e65379928a4802305e14157',
+404 silly install resolved     _from: 'node-svm@>=2.1.8 <3.0.0',
+404 silly install resolved     _npmVersion: '3.8.9',
+404 silly install resolved     _nodeVersion: '6.2.0',
+404 silly install resolved     _npmUser: { name: 'nicolaspanel', email: 'nicolas.panel@live.fr' },
+404 silly install resolved     dist:
+404 silly install resolved      { shasum: '5e1c629637fbb8041e65379928a4802305e14157',
+404 silly install resolved        tarball: 'https://registry.npmjs.org/node-svm/-/node-svm-2.1.8.tgz' },
+404 silly install resolved     maintainers: [ [Object] ],
+404 silly install resolved     _npmOperationalInternal:
+404 silly install resolved      { host: 'packages-16-east.internal.npmjs.com',
+404 silly install resolved        tmp: 'tmp/node-svm-2.1.8.tgz_1464270945480_0.6418473792728037' },
+404 silly install resolved     directories: {},
+404 silly install resolved     _resolved: 'https://registry.npmjs.org/node-svm/-/node-svm-2.1.8.tgz' } ]
+405 info install node-svm@2.1.8 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+406 info installOne node-svm@2.1.8
+407 verbose installOne of node-svm to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 not in flight; installing
+408 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+409 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\node-svm-d3b45571ca42856a.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+410 silly install write writing node-svm 2.1.8 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+411 verbose unbuild node_modules\node-svm
+412 info preuninstall node-svm@2.1.8
+413 info uninstall node-svm@2.1.8
+414 verbose unbuild rmStuff node-svm@2.1.8 from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules
+415 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd is being gently removed
+416 silly gentlyRm verifying E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is an npm working directory
+417 silly gentlyRm containing path E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is under npm's control, in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+418 silly gentlyRm deletion target E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd is under E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+419 verbose gentlyRm vacuuming from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd up to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+420 silly vacuum-fs removing E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd
+421 silly vacuum-fs quitting because other entries in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin
+422 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm is being gently removed
+423 silly gentlyRm verifying E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is an npm working directory
+424 silly gentlyRm containing path E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is under npm's control, in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+425 silly gentlyRm deletion target E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm is under E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+426 verbose gentlyRm vacuuming from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm up to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+427 silly vacuum-fs removing E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm
+428 silly vacuum-fs quitting because other entries in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin
+429 info postuninstall node-svm@2.1.8
+430 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+431 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+432 silly vacuum-fs purging E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+433 silly vacuum-fs quitting because other entries in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules
+434 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\node-svm\2.1.8\package.tgz
+435 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+436 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm is being purged
+437 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+438 silly gunzTarPerm modes [ '777', '666' ]
+439 silly gunzTarPerm extractEntry package.json
+440 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+441 silly gunzTarPerm extractEntry .npmignore
+442 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
+443 silly gunzTarPerm extractEntry README.md
+444 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+445 silly gunzTarPerm extractEntry LICENSE
+446 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+447 silly gunzTarPerm extractEntry Gruntfile.js
+448 silly gunzTarPerm modified mode [ 'Gruntfile.js', 436, 438 ]
+449 silly gunzTarPerm extractEntry .coveralls.yml
+450 silly gunzTarPerm modified mode [ '.coveralls.yml', 436, 438 ]
+451 silly gunzTarPerm extractEntry .travis.yml
+452 silly gunzTarPerm modified mode [ '.travis.yml', 436, 438 ]
+453 silly gunzTarPerm extractEntry .idea/.name
+454 silly gunzTarPerm modified mode [ '.idea/.name', 436, 438 ]
+455 silly gunzTarPerm extractEntry .idea/encodings.xml
+456 silly gunzTarPerm modified mode [ '.idea/encodings.xml', 436, 438 ]
+457 silly gunzTarPerm extractEntry .idea/misc.xml
+458 silly gunzTarPerm modified mode [ '.idea/misc.xml', 436, 438 ]
+459 silly gunzTarPerm extractEntry .idea/modules.xml
+460 silly gunzTarPerm modified mode [ '.idea/modules.xml', 436, 438 ]
+461 silly gunzTarPerm extractEntry .idea/node-svm.iml
+462 silly gunzTarPerm modified mode [ '.idea/node-svm.iml', 436, 438 ]
+463 silly gunzTarPerm extractEntry .idea/scopes/scope_settings.xml
+464 silly gunzTarPerm modified mode [ '.idea/scopes/scope_settings.xml', 436, 438 ]
+465 silly gunzTarPerm extractEntry .idea/vcs.xml
+466 silly gunzTarPerm modified mode [ '.idea/vcs.xml', 436, 438 ]
+467 silly gunzTarPerm extractEntry .idea/workspace.xml
+468 silly gunzTarPerm modified mode [ '.idea/workspace.xml', 436, 438 ]
+469 silly gunzTarPerm extractEntry .jshintrc
+470 silly gunzTarPerm modified mode [ '.jshintrc', 436, 438 ]
+471 silly gunzTarPerm extractEntry bin/node-svm
+472 silly gunzTarPerm modified mode [ 'bin/node-svm', 509, 511 ]
+473 silly gunzTarPerm extractEntry binding.gyp
+474 silly gunzTarPerm modified mode [ 'binding.gyp', 436, 438 ]
+475 silly gunzTarPerm extractEntry build/Makefile
+476 silly gunzTarPerm modified mode [ 'build/Makefile', 436, 438 ]
+477 silly gunzTarPerm extractEntry build/Release/.deps/Release/addon.node.d
+478 silly gunzTarPerm modified mode [ 'build/Release/.deps/Release/addon.node.d', 436, 438 ]
+479 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/addon/src/addon.o.d
+480 silly gunzTarPerm modified mode [ 'build/Release/.deps/Release/obj.target/addon/src/addon.o.d',
+480 silly gunzTarPerm   436,
+480 silly gunzTarPerm   438 ]
+481 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/addon/src/libsvm/svm.o.d
+482 silly gunzTarPerm modified mode [ 'build/Release/.deps/Release/obj.target/addon/src/libsvm/svm.o.d',
+482 silly gunzTarPerm   436,
+482 silly gunzTarPerm   438 ]
+483 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/addon/src/node-svm/node-svm.o.d
+484 silly gunzTarPerm modified mode [ 'build/Release/.deps/Release/obj.target/addon/src/node-svm/node-svm.o.d',
+484 silly gunzTarPerm   436,
+484 silly gunzTarPerm   438 ]
+485 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/addon.node.d
+486 silly gunzTarPerm modified mode [ 'build/Release/.deps/Release/obj.target/addon.node.d',
+486 silly gunzTarPerm   436,
+486 silly gunzTarPerm   438 ]
+487 silly gunzTarPerm extractEntry build/Release/addon.node
+488 silly gunzTarPerm modified mode [ 'build/Release/addon.node', 509, 511 ]
+489 silly gunzTarPerm extractEntry build/Release/obj.target/addon/src/addon.o
+490 silly gunzTarPerm modified mode [ 'build/Release/obj.target/addon/src/addon.o', 436, 438 ]
+491 silly gunzTarPerm extractEntry build/Release/obj.target/addon/src/libsvm/svm.o
+492 silly gunzTarPerm modified mode [ 'build/Release/obj.target/addon/src/libsvm/svm.o', 436, 438 ]
+493 silly gunzTarPerm extractEntry build/Release/obj.target/addon/src/node-svm/node-svm.o
+494 silly gunzTarPerm modified mode [ 'build/Release/obj.target/addon/src/node-svm/node-svm.o',
+494 silly gunzTarPerm   436,
+494 silly gunzTarPerm   438 ]
+495 silly gunzTarPerm extractEntry build/Release/obj.target/addon.node
+496 silly gunzTarPerm modified mode [ 'build/Release/obj.target/addon.node', 509, 511 ]
+497 silly gunzTarPerm extractEntry build/addon.target.mk
+498 silly gunzTarPerm modified mode [ 'build/addon.target.mk', 436, 438 ]
+499 silly gunzTarPerm extractEntry build/binding.Makefile
+500 silly gunzTarPerm modified mode [ 'build/binding.Makefile', 436, 438 ]
+501 silly gunzTarPerm extractEntry lib/index.js
+502 silly gunzTarPerm modified mode [ 'lib/index.js', 436, 438 ]
+503 silly gunzTarPerm extractEntry lib/commands/evaluate.js
+504 silly gunzTarPerm modified mode [ 'lib/commands/evaluate.js', 436, 438 ]
+505 silly gunzTarPerm extractEntry lib/commands/help.js
+506 silly gunzTarPerm modified mode [ 'lib/commands/help.js', 436, 438 ]
+507 silly gunzTarPerm extractEntry lib/commands/index.js
+508 silly gunzTarPerm modified mode [ 'lib/commands/index.js', 436, 438 ]
+509 silly gunzTarPerm extractEntry lib/commands/train.js
+510 silly gunzTarPerm modified mode [ 'lib/commands/train.js', 436, 438 ]
+511 silly gunzTarPerm extractEntry lib/core/base-svm.js
+512 silly gunzTarPerm modified mode [ 'lib/core/base-svm.js', 436, 438 ]
+513 silly gunzTarPerm extractEntry lib/core/config.js
+514 silly gunzTarPerm modified mode [ 'lib/core/config.js', 436, 438 ]
+515 silly gunzTarPerm extractEntry lib/core/default-options.js
+516 silly gunzTarPerm modified mode [ 'lib/core/default-options.js', 436, 438 ]
+517 silly gunzTarPerm extractEntry lib/core/grid-search.js
+518 silly gunzTarPerm modified mode [ 'lib/core/grid-search.js', 436, 438 ]
+519 silly gunzTarPerm extractEntry lib/core/kernel-types.js
+520 silly gunzTarPerm modified mode [ 'lib/core/kernel-types.js', 436, 438 ]
+521 silly gunzTarPerm extractEntry lib/core/svm-types.js
+522 silly gunzTarPerm modified mode [ 'lib/core/svm-types.js', 436, 438 ]
+523 silly gunzTarPerm extractEntry lib/core/svm.js
+524 silly gunzTarPerm modified mode [ 'lib/core/svm.js', 436, 438 ]
+525 silly gunzTarPerm extractEntry lib/evaluators/classification.js
+526 silly gunzTarPerm modified mode [ 'lib/evaluators/classification.js', 436, 438 ]
+527 silly gunzTarPerm extractEntry lib/evaluators/index.js
+528 silly gunzTarPerm modified mode [ 'lib/evaluators/index.js', 436, 438 ]
+529 silly gunzTarPerm extractEntry lib/evaluators/regression.js
+530 silly gunzTarPerm modified mode [ 'lib/evaluators/regression.js', 436, 438 ]
+531 silly gunzTarPerm extractEntry lib/renderers/JsonRenderer.js
+532 silly gunzTarPerm modified mode [ 'lib/renderers/JsonRenderer.js', 436, 438 ]
+533 silly gunzTarPerm extractEntry lib/renderers/StandardRenderer.js
+534 silly gunzTarPerm modified mode [ 'lib/renderers/StandardRenderer.js', 436, 438 ]
+535 silly gunzTarPerm extractEntry lib/renderers/index.js
+536 silly gunzTarPerm modified mode [ 'lib/renderers/index.js', 436, 438 ]
+537 silly gunzTarPerm extractEntry lib/templates/helpers/colors.js
+538 silly gunzTarPerm modified mode [ 'lib/templates/helpers/colors.js', 436, 438 ]
+539 silly gunzTarPerm extractEntry lib/templates/helpers/condense.js
+540 silly gunzTarPerm modified mode [ 'lib/templates/helpers/condense.js', 436, 438 ]
+541 silly gunzTarPerm extractEntry lib/templates/helpers/indent.js
+542 silly gunzTarPerm modified mode [ 'lib/templates/helpers/indent.js', 436, 438 ]
+543 silly gunzTarPerm extractEntry lib/templates/helpers/index.js
+544 silly gunzTarPerm modified mode [ 'lib/templates/helpers/index.js', 436, 438 ]
+545 silly gunzTarPerm extractEntry lib/templates/helpers/number.js
+546 silly gunzTarPerm modified mode [ 'lib/templates/helpers/number.js', 436, 438 ]
+547 silly gunzTarPerm extractEntry lib/templates/helpers/percent.js
+548 silly gunzTarPerm modified mode [ 'lib/templates/helpers/percent.js', 436, 438 ]
+549 silly gunzTarPerm extractEntry lib/templates/helpers/rpad.js
+550 silly gunzTarPerm modified mode [ 'lib/templates/helpers/rpad.js', 436, 438 ]
+551 silly gunzTarPerm extractEntry lib/templates/helpers/sum.js
+552 silly gunzTarPerm modified mode [ 'lib/templates/helpers/sum.js', 436, 438 ]
+553 silly gunzTarPerm extractEntry lib/templates/json/help-evaluate.json
+554 silly gunzTarPerm modified mode [ 'lib/templates/json/help-evaluate.json', 436, 438 ]
+555 silly gunzTarPerm extractEntry lib/templates/json/help-help.json
+556 silly gunzTarPerm modified mode [ 'lib/templates/json/help-help.json', 436, 438 ]
+557 silly gunzTarPerm extractEntry lib/templates/json/help-train.json
+558 silly gunzTarPerm modified mode [ 'lib/templates/json/help-train.json', 436, 438 ]
+559 silly gunzTarPerm extractEntry lib/templates/json/help.json
+560 silly gunzTarPerm modified mode [ 'lib/templates/json/help.json', 436, 438 ]
+561 silly gunzTarPerm extractEntry lib/templates/std/classification-report.std
+562 silly gunzTarPerm modified mode [ 'lib/templates/std/classification-report.std', 436, 438 ]
+563 silly gunzTarPerm extractEntry lib/templates/std/configuration.std
+564 silly gunzTarPerm modified mode [ 'lib/templates/std/configuration.std', 436, 438 ]
+565 silly gunzTarPerm extractEntry lib/templates/std/help-generic.std
+566 silly gunzTarPerm modified mode [ 'lib/templates/std/help-generic.std', 436, 438 ]
+567 silly gunzTarPerm extractEntry lib/templates/std/help.std
+568 silly gunzTarPerm modified mode [ 'lib/templates/std/help.std', 436, 438 ]
+569 silly gunzTarPerm extractEntry lib/templates/std/regression-report.std
+570 silly gunzTarPerm modified mode [ 'lib/templates/std/regression-report.std', 436, 438 ]
+571 silly gunzTarPerm extractEntry lib/util/average.js
+572 silly gunzTarPerm modified mode [ 'lib/util/average.js', 436, 438 ]
+573 silly gunzTarPerm extractEntry lib/util/cross-combinations.js
+574 silly gunzTarPerm modified mode [ 'lib/util/cross-combinations.js', 436, 438 ]
+575 silly gunzTarPerm extractEntry lib/util/logger.js
+576 silly gunzTarPerm modified mode [ 'lib/util/logger.js', 436, 438 ]
+577 silly gunzTarPerm extractEntry lib/util/normalize-dataset.js
+578 silly gunzTarPerm modified mode [ 'lib/util/normalize-dataset.js', 436, 438 ]
+579 silly gunzTarPerm extractEntry lib/util/normalize-input.js
+580 silly gunzTarPerm modified mode [ 'lib/util/normalize-input.js', 436, 438 ]
+581 silly gunzTarPerm extractEntry lib/util/create-error.js
+582 silly gunzTarPerm modified mode [ 'lib/util/create-error.js', 436, 438 ]
+583 silly gunzTarPerm extractEntry lib/util/read-config.js
+584 silly gunzTarPerm modified mode [ 'lib/util/read-config.js', 436, 438 ]
+585 silly gunzTarPerm extractEntry lib/util/read-dataset.js
+586 silly gunzTarPerm modified mode [ 'lib/util/read-dataset.js', 436, 438 ]
+587 silly gunzTarPerm extractEntry lib/util/reduce-dataset.js
+588 silly gunzTarPerm modified mode [ 'lib/util/reduce-dataset.js', 436, 438 ]
+589 silly gunzTarPerm extractEntry lib/util/split-dataset.js
+590 silly gunzTarPerm modified mode [ 'lib/util/split-dataset.js', 436, 438 ]
+591 silly gunzTarPerm extractEntry lib/util/standard-deviation.js
+592 silly gunzTarPerm modified mode [ 'lib/util/standard-deviation.js', 436, 438 ]
+593 silly gunzTarPerm extractEntry lib/util/cli.js
+594 silly gunzTarPerm modified mode [ 'lib/util/cli.js', 436, 438 ]
+595 silly gunzTarPerm extractEntry lib/util/template.js
+596 silly gunzTarPerm modified mode [ 'lib/util/template.js', 436, 438 ]
+597 silly gunzTarPerm extractEntry lib/util/paths.js
+598 silly gunzTarPerm modified mode [ 'lib/util/paths.js', 436, 438 ]
+599 silly gunzTarPerm extractEntry src/addon.cc
+600 silly gunzTarPerm modified mode [ 'src/addon.cc', 436, 438 ]
+601 silly gunzTarPerm extractEntry src/libsvm/README
+602 silly gunzTarPerm modified mode [ 'src/libsvm/README', 436, 438 ]
+603 silly gunzTarPerm extractEntry src/libsvm/COPYRIGHT
+604 silly gunzTarPerm modified mode [ 'src/libsvm/COPYRIGHT', 436, 438 ]
+605 silly gunzTarPerm extractEntry src/libsvm/Makefile
+606 silly gunzTarPerm modified mode [ 'src/libsvm/Makefile', 436, 438 ]
+607 silly gunzTarPerm extractEntry src/libsvm/Makefile.win
+608 silly gunzTarPerm modified mode [ 'src/libsvm/Makefile.win', 436, 438 ]
+609 silly gunzTarPerm extractEntry src/libsvm/svm.cpp
+610 silly gunzTarPerm modified mode [ 'src/libsvm/svm.cpp', 436, 438 ]
+611 silly gunzTarPerm extractEntry src/libsvm/svm.h
+612 silly gunzTarPerm modified mode [ 'src/libsvm/svm.h', 436, 438 ]
+613 silly gunzTarPerm extractEntry src/node-svm/node-svm.cc
+614 silly gunzTarPerm modified mode [ 'src/node-svm/node-svm.cc', 436, 438 ]
+615 silly gunzTarPerm extractEntry src/node-svm/node-svm.h
+616 silly gunzTarPerm modified mode [ 'src/node-svm/node-svm.h', 436, 438 ]
+617 silly gunzTarPerm extractEntry src/node-svm/prediction-worker.h
+618 silly gunzTarPerm modified mode [ 'src/node-svm/prediction-worker.h', 436, 438 ]
+619 silly gunzTarPerm extractEntry src/node-svm/probability-prediction-worker.h
+620 silly gunzTarPerm modified mode [ 'src/node-svm/probability-prediction-worker.h', 436, 438 ]
+621 silly gunzTarPerm extractEntry src/node-svm/training-worker.h
+622 silly gunzTarPerm modified mode [ 'src/node-svm/training-worker.h', 436, 438 ]
+623 silly gunzTarPerm extractEntry .nodesvmrc
+624 silly gunzTarPerm modified mode [ '.nodesvmrc', 436, 438 ]
+625 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\package.json
+626 info preinstall node-svm@2.1.8
+627 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\package.json
+628 silly prepareForInstallMany adding chalk@^0.5.1 from node-svm dependencies
+629 silly prepareForInstallMany adding nopt@~3.0.0 from node-svm dependencies
+630 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\package.json
+631 silly cache add args [ 'chalk@^0.5.1', null ]
+632 verbose cache add spec chalk@^0.5.1
+633 silly cache add args [ 'nopt@~3.0.0', null ]
+634 verbose cache add spec nopt@~3.0.0
+635 silly cache add parsed spec Result {
+635 silly cache add   raw: 'chalk@^0.5.1',
+635 silly cache add   scope: null,
+635 silly cache add   name: 'chalk',
+635 silly cache add   rawSpec: '^0.5.1',
+635 silly cache add   spec: '>=0.5.1 <0.6.0',
+635 silly cache add   type: 'range' }
+636 silly addNamed chalk@>=0.5.1 <0.6.0
+637 verbose addNamed ">=0.5.1 <0.6.0" is a valid semver range for chalk
+638 silly addNameRange { name: 'chalk', range: '>=0.5.1 <0.6.0', hasData: false }
+639 silly mapToRegistry name chalk
+640 silly mapToRegistry using default registry
+641 silly mapToRegistry registry https://registry.npmjs.org/
+642 silly mapToRegistry data Result {
+642 silly mapToRegistry   raw: 'chalk',
+642 silly mapToRegistry   scope: null,
+642 silly mapToRegistry   name: 'chalk',
+642 silly mapToRegistry   rawSpec: '',
+642 silly mapToRegistry   spec: 'latest',
+642 silly mapToRegistry   type: 'tag' }
+643 silly mapToRegistry uri https://registry.npmjs.org/chalk
+644 verbose addNameRange registry:https://registry.npmjs.org/chalk not in flight; fetching
+645 silly cache add parsed spec Result {
+645 silly cache add   raw: 'nopt@~3.0.0',
+645 silly cache add   scope: null,
+645 silly cache add   name: 'nopt',
+645 silly cache add   rawSpec: '~3.0.0',
+645 silly cache add   spec: '>=3.0.0 <3.1.0',
+645 silly cache add   type: 'range' }
+646 silly addNamed nopt@>=3.0.0 <3.1.0
+647 verbose addNamed ">=3.0.0 <3.1.0" is a valid semver range for nopt
+648 silly addNameRange { name: 'nopt', range: '>=3.0.0 <3.1.0', hasData: false }
+649 silly mapToRegistry name nopt
+650 silly mapToRegistry using default registry
+651 silly mapToRegistry registry https://registry.npmjs.org/
+652 silly mapToRegistry data Result {
+652 silly mapToRegistry   raw: 'nopt',
+652 silly mapToRegistry   scope: null,
+652 silly mapToRegistry   name: 'nopt',
+652 silly mapToRegistry   rawSpec: '',
+652 silly mapToRegistry   spec: 'latest',
+652 silly mapToRegistry   type: 'tag' }
+653 silly mapToRegistry uri https://registry.npmjs.org/nopt
+654 verbose addNameRange registry:https://registry.npmjs.org/nopt not in flight; fetching
+655 verbose request uri https://registry.npmjs.org/chalk
+656 verbose request no auth needed
+657 info attempt registry request try #1 at 11:18:36 PM
+658 verbose etag "B7MEOILWL5HE9G0QDIRK71AVO"
+659 http request GET https://registry.npmjs.org/chalk
+660 verbose request uri https://registry.npmjs.org/nopt
+661 verbose request no auth needed
+662 info attempt registry request try #1 at 11:18:36 PM
+663 verbose etag "N4A3NUOKEJU836ACEHGH2YMD"
+664 http request GET https://registry.npmjs.org/nopt
+665 http 200 https://registry.npmjs.org/chalk
+666 verbose headers { server: 'nginx/1.10.1',
+666 verbose headers   'content-type': 'application/json',
+666 verbose headers   'last-modified': 'Mon, 14 Nov 2016 17:15:16 GMT',
+666 verbose headers   etag: 'W/"5829f124-80cd"',
+666 verbose headers   'content-encoding': 'gzip',
+666 verbose headers   'cache-control': 'max-age=300',
+666 verbose headers   'content-length': '8397',
+666 verbose headers   'accept-ranges': 'bytes',
+666 verbose headers   date: 'Thu, 17 Nov 2016 17:48:31 GMT',
+666 verbose headers   via: '1.1 varnish',
+666 verbose headers   age: '127',
+666 verbose headers   connection: 'keep-alive',
+666 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+666 verbose headers   'x-cache': 'HIT',
+666 verbose headers   'x-cache-hits': '12',
+666 verbose headers   'x-timer': 'S1479404911.973364,VS0,VE0',
+666 verbose headers   vary: 'Accept-Encoding' }
+667 silly get cb [ 200,
+667 silly get   { server: 'nginx/1.10.1',
+667 silly get     'content-type': 'application/json',
+667 silly get     'last-modified': 'Mon, 14 Nov 2016 17:15:16 GMT',
+667 silly get     etag: 'W/"5829f124-80cd"',
+667 silly get     'content-encoding': 'gzip',
+667 silly get     'cache-control': 'max-age=300',
+667 silly get     'content-length': '8397',
+667 silly get     'accept-ranges': 'bytes',
+667 silly get     date: 'Thu, 17 Nov 2016 17:48:31 GMT',
+667 silly get     via: '1.1 varnish',
+667 silly get     age: '127',
+667 silly get     connection: 'keep-alive',
+667 silly get     'x-served-by': 'cache-sin6927-SIN',
+667 silly get     'x-cache': 'HIT',
+667 silly get     'x-cache-hits': '12',
+667 silly get     'x-timer': 'S1479404911.973364,VS0,VE0',
+667 silly get     vary: 'Accept-Encoding' } ]
+668 verbose get saving chalk to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\chalk\.cache.json
+669 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+670 silly addNameRange number 2 { name: 'chalk', range: '>=0.5.1 <0.6.0', hasData: true }
+671 silly addNameRange versions [ 'chalk',
+671 silly addNameRange   [ '0.1.0',
+671 silly addNameRange     '0.1.1',
+671 silly addNameRange     '0.2.0',
+671 silly addNameRange     '0.2.1',
+671 silly addNameRange     '0.3.0',
+671 silly addNameRange     '0.4.0',
+671 silly addNameRange     '0.5.0',
+671 silly addNameRange     '0.5.1',
+671 silly addNameRange     '1.0.0',
+671 silly addNameRange     '1.1.0',
+671 silly addNameRange     '1.1.1',
+671 silly addNameRange     '1.1.2',
+671 silly addNameRange     '1.1.3' ] ]
+672 silly addNamed chalk@0.5.1
+673 verbose addNamed "0.5.1" is a plain semver version for chalk
+674 silly cache afterAdd chalk@0.5.1
+675 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\chalk\0.5.1\package\package.json not in flight; writing
+676 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+677 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\chalk\0.5.1\package\package.json written
+678 http 200 https://registry.npmjs.org/nopt
+679 verbose headers { server: 'nginx/1.10.1',
+679 verbose headers   'content-type': 'application/json',
+679 verbose headers   'last-modified': 'Wed, 02 Nov 2016 23:00:23 GMT',
+679 verbose headers   etag: 'W/"581a7007-7af9"',
+679 verbose headers   'content-encoding': 'gzip',
+679 verbose headers   'cache-control': 'max-age=300',
+679 verbose headers   'content-length': '6515',
+679 verbose headers   'accept-ranges': 'bytes',
+679 verbose headers   date: 'Thu, 17 Nov 2016 17:48:32 GMT',
+679 verbose headers   via: '1.1 varnish',
+679 verbose headers   age: '177',
+679 verbose headers   connection: 'keep-alive',
+679 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+679 verbose headers   'x-cache': 'HIT',
+679 verbose headers   'x-cache-hits': '580',
+679 verbose headers   'x-timer': 'S1479404912.258612,VS0,VE0',
+679 verbose headers   vary: 'Accept-Encoding' }
+680 silly get cb [ 200,
+680 silly get   { server: 'nginx/1.10.1',
+680 silly get     'content-type': 'application/json',
+680 silly get     'last-modified': 'Wed, 02 Nov 2016 23:00:23 GMT',
+680 silly get     etag: 'W/"581a7007-7af9"',
+680 silly get     'content-encoding': 'gzip',
+680 silly get     'cache-control': 'max-age=300',
+680 silly get     'content-length': '6515',
+680 silly get     'accept-ranges': 'bytes',
+680 silly get     date: 'Thu, 17 Nov 2016 17:48:32 GMT',
+680 silly get     via: '1.1 varnish',
+680 silly get     age: '177',
+680 silly get     connection: 'keep-alive',
+680 silly get     'x-served-by': 'cache-sin6927-SIN',
+680 silly get     'x-cache': 'HIT',
+680 silly get     'x-cache-hits': '580',
+680 silly get     'x-timer': 'S1479404912.258612,VS0,VE0',
+680 silly get     vary: 'Accept-Encoding' } ]
+681 verbose get saving nopt to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\nopt\.cache.json
+682 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+683 silly addNameRange number 2 { name: 'nopt', range: '>=3.0.0 <3.1.0', hasData: true }
+684 silly addNameRange versions [ 'nopt',
+684 silly addNameRange   [ '1.0.0',
+684 silly addNameRange     '1.0.1',
+684 silly addNameRange     '1.0.2',
+684 silly addNameRange     '1.0.3',
+684 silly addNameRange     '1.0.4',
+684 silly addNameRange     '1.0.5',
+684 silly addNameRange     '1.0.6',
+684 silly addNameRange     '1.0.7',
+684 silly addNameRange     '1.0.8',
+684 silly addNameRange     '1.0.9',
+684 silly addNameRange     '1.0.10',
+684 silly addNameRange     '2.0.0',
+684 silly addNameRange     '2.1.0',
+684 silly addNameRange     '2.1.1',
+684 silly addNameRange     '2.1.2',
+684 silly addNameRange     '2.2.0',
+684 silly addNameRange     '2.2.1',
+684 silly addNameRange     '3.0.0',
+684 silly addNameRange     '3.0.1',
+684 silly addNameRange     '3.0.2',
+684 silly addNameRange     '3.0.3',
+684 silly addNameRange     '3.0.4',
+684 silly addNameRange     '3.0.5',
+684 silly addNameRange     '3.0.6' ] ]
+685 silly addNamed nopt@3.0.6
+686 verbose addNamed "3.0.6" is a plain semver version for nopt
+687 silly cache afterAdd nopt@3.0.6
+688 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\nopt\3.0.6\package\package.json not in flight; writing
+689 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+690 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\nopt\3.0.6\package\package.json written
+691 silly install resolved [ { name: 'chalk',
+691 silly install resolved     version: '0.5.1',
+691 silly install resolved     description: 'Terminal string styling done right. Created because the `colors` module does some really horrible things.',
+691 silly install resolved     license: 'MIT',
+691 silly install resolved     repository: { type: 'git', url: 'git://github.com/sindresorhus/chalk.git' },
+691 silly install resolved     maintainers: [ [Object], [Object] ],
+691 silly install resolved     engines: { node: '>=0.10.0' },
+691 silly install resolved     scripts: { test: 'mocha', bench: 'matcha benchmark.js' },
+691 silly install resolved     files: [ 'index.js' ],
+691 silly install resolved     keywords:
+691 silly install resolved      [ 'color',
+691 silly install resolved        'colour',
+691 silly install resolved        'colors',
+691 silly install resolved        'terminal',
+691 silly install resolved        'console',
+691 silly install resolved        'cli',
+691 silly install resolved        'string',
+691 silly install resolved        'ansi',
+691 silly install resolved        'styles',
+691 silly install resolved        'tty',
+691 silly install resolved        'formatting',
+691 silly install resolved        'rgb',
+691 silly install resolved        '256',
+691 silly install resolved        'shell',
+691 silly install resolved        'xterm',
+691 silly install resolved        'log',
+691 silly install resolved        'logging',
+691 silly install resolved        'command-line',
+691 silly install resolved        'text' ],
+691 silly install resolved     dependencies:
+691 silly install resolved      { 'ansi-styles': '^1.1.0',
+691 silly install resolved        'escape-string-regexp': '^1.0.0',
+691 silly install resolved        'has-ansi': '^0.1.0',
+691 silly install resolved        'strip-ansi': '^0.3.0',
+691 silly install resolved        'supports-color': '^0.2.0' },
+691 silly install resolved     devDependencies: { matcha: '^0.5.0', mocha: '*' },
+691 silly install resolved     gitHead: '994758f01293f1fdcf63282e9917cb9f2cfbdaac',
+691 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/chalk/issues' },
+691 silly install resolved     homepage: 'https://github.com/sindresorhus/chalk',
+691 silly install resolved     _id: 'chalk@0.5.1',
+691 silly install resolved     _shasum: '663b3a648b68b55d04690d49167aa837858f2174',
+691 silly install resolved     _from: 'chalk@>=0.5.1 <0.6.0',
+691 silly install resolved     _npmVersion: '1.4.14',
+691 silly install resolved     _npmUser: { name: 'jbnicolai', email: 'jappelman@xebia.com' },
+691 silly install resolved     dist:
+691 silly install resolved      { shasum: '663b3a648b68b55d04690d49167aa837858f2174',
+691 silly install resolved        tarball: 'https://registry.npmjs.org/chalk/-/chalk-0.5.1.tgz' },
+691 silly install resolved     directories: {},
+691 silly install resolved     _resolved: 'https://registry.npmjs.org/chalk/-/chalk-0.5.1.tgz',
+691 silly install resolved     readme: 'ERROR: No README data found!' },
+691 silly install resolved   { name: 'nopt',
+691 silly install resolved     version: '3.0.6',
+691 silly install resolved     description: 'Option parsing for Node, supporting types, shorthands, etc. Used by npm.',
+691 silly install resolved     author:
+691 silly install resolved      { name: 'Isaac Z. Schlueter',
+691 silly install resolved        email: 'i@izs.me',
+691 silly install resolved        url: 'http://blog.izs.me/' },
+691 silly install resolved     main: 'lib/nopt.js',
+691 silly install resolved     scripts: { test: 'tap test/*.js' },
+691 silly install resolved     repository: { type: 'git', url: 'git+https://github.com/npm/nopt.git' },
+691 silly install resolved     bin: { nopt: './bin/nopt.js' },
+691 silly install resolved     license: 'ISC',
+691 silly install resolved     dependencies: { abbrev: '1' },
+691 silly install resolved     devDependencies: { tap: '^1.2.0' },
+691 silly install resolved     gitHead: '10a750c9bb99c1950160353459e733ac2aa18cb6',
+691 silly install resolved     bugs: { url: 'https://github.com/npm/nopt/issues' },
+691 silly install resolved     homepage: 'https://github.com/npm/nopt#readme',
+691 silly install resolved     _id: 'nopt@3.0.6',
+691 silly install resolved     _shasum: 'c6465dbf08abcd4db359317f79ac68a646b28ff9',
+691 silly install resolved     _from: 'nopt@>=3.0.0 <3.1.0',
+691 silly install resolved     _npmVersion: '2.14.10',
+691 silly install resolved     _nodeVersion: '4.2.1',
+691 silly install resolved     _npmUser: { name: 'othiym23', email: 'ogd@aoaioxxysz.net' },
+691 silly install resolved     dist:
+691 silly install resolved      { shasum: 'c6465dbf08abcd4db359317f79ac68a646b28ff9',
+691 silly install resolved        tarball: 'https://registry.npmjs.org/nopt/-/nopt-3.0.6.tgz' },
+691 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+691 silly install resolved     directories: {},
+691 silly install resolved     _resolved: 'https://registry.npmjs.org/nopt/-/nopt-3.0.6.tgz',
+691 silly install resolved     readme: 'ERROR: No README data found!' } ]
+692 info install chalk@0.5.1 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+693 info install nopt@3.0.6 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+694 info installOne chalk@0.5.1
+695 verbose installOne of chalk to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm not in flight; installing
+696 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+697 info installOne nopt@3.0.6
+698 verbose installOne of nopt to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm not in flight; installing
+699 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+700 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\chalk-27784a32c6a4011c.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+701 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\nopt-fd1c3894d5a42a65.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+702 silly install write writing chalk 0.5.1 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+703 silly install write writing nopt 3.0.6 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+704 verbose unbuild node_modules\node-svm\node_modules\chalk
+705 verbose unbuild node_modules\node-svm\node_modules\nopt
+706 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+707 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+708 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\chalk\0.5.1\package.tgz
+709 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+710 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk is being purged
+711 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+712 silly gunzTarPerm modes [ '777', '666' ]
+713 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+714 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+715 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\nopt\3.0.6\package.tgz
+716 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+717 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt is being purged
+718 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+719 silly gunzTarPerm modes [ '777', '666' ]
+720 silly gunzTarPerm extractEntry package.json
+721 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+722 silly gunzTarPerm extractEntry index.js
+723 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+724 silly gunzTarPerm extractEntry readme.md
+725 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+726 silly gunzTarPerm extractEntry package.json
+727 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+728 silly gunzTarPerm extractEntry .npmignore
+729 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+730 silly gunzTarPerm extractEntry README.md
+731 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+732 silly gunzTarPerm extractEntry LICENSE
+733 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+734 silly gunzTarPerm extractEntry .travis.yml
+735 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+736 silly gunzTarPerm extractEntry bin/nopt.js
+737 silly gunzTarPerm modified mode [ 'bin/nopt.js', 493, 511 ]
+738 silly gunzTarPerm extractEntry examples/my-program.js
+739 silly gunzTarPerm modified mode [ 'examples/my-program.js', 493, 511 ]
+740 silly gunzTarPerm extractEntry lib/nopt.js
+741 silly gunzTarPerm modified mode [ 'lib/nopt.js', 420, 438 ]
+742 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\package.json
+743 silly gunzTarPerm extractEntry test/basic.js
+744 silly gunzTarPerm modified mode [ 'test/basic.js', 420, 438 ]
+745 info preinstall chalk@0.5.1
+746 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\package.json
+747 silly prepareForInstallMany adding ansi-styles@^1.1.0 from chalk dependencies
+748 silly prepareForInstallMany adding has-ansi@^0.1.0 from chalk dependencies
+749 silly prepareForInstallMany adding strip-ansi@^0.3.0 from chalk dependencies
+750 silly prepareForInstallMany adding supports-color@^0.2.0 from chalk dependencies
+751 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\package.json
+752 silly cache add args [ 'ansi-styles@^1.1.0', null ]
+753 verbose cache add spec ansi-styles@^1.1.0
+754 silly cache add args [ 'has-ansi@^0.1.0', null ]
+755 verbose cache add spec has-ansi@^0.1.0
+756 silly cache add parsed spec Result {
+756 silly cache add   raw: 'ansi-styles@^1.1.0',
+756 silly cache add   scope: null,
+756 silly cache add   name: 'ansi-styles',
+756 silly cache add   rawSpec: '^1.1.0',
+756 silly cache add   spec: '>=1.1.0 <2.0.0',
+756 silly cache add   type: 'range' }
+757 silly addNamed ansi-styles@>=1.1.0 <2.0.0
+758 verbose addNamed ">=1.1.0 <2.0.0" is a valid semver range for ansi-styles
+759 silly addNameRange { name: 'ansi-styles', range: '>=1.1.0 <2.0.0', hasData: false }
+760 silly mapToRegistry name ansi-styles
+761 silly mapToRegistry using default registry
+762 silly mapToRegistry registry https://registry.npmjs.org/
+763 silly mapToRegistry data Result {
+763 silly mapToRegistry   raw: 'ansi-styles',
+763 silly mapToRegistry   scope: null,
+763 silly mapToRegistry   name: 'ansi-styles',
+763 silly mapToRegistry   rawSpec: '',
+763 silly mapToRegistry   spec: 'latest',
+763 silly mapToRegistry   type: 'tag' }
+764 silly mapToRegistry uri https://registry.npmjs.org/ansi-styles
+765 verbose addNameRange registry:https://registry.npmjs.org/ansi-styles not in flight; fetching
+766 silly cache add parsed spec Result {
+766 silly cache add   raw: 'has-ansi@^0.1.0',
+766 silly cache add   scope: null,
+766 silly cache add   name: 'has-ansi',
+766 silly cache add   rawSpec: '^0.1.0',
+766 silly cache add   spec: '>=0.1.0 <0.2.0',
+766 silly cache add   type: 'range' }
+767 silly addNamed has-ansi@>=0.1.0 <0.2.0
+768 verbose addNamed ">=0.1.0 <0.2.0" is a valid semver range for has-ansi
+769 silly addNameRange { name: 'has-ansi', range: '>=0.1.0 <0.2.0', hasData: false }
+770 silly mapToRegistry name has-ansi
+771 silly mapToRegistry using default registry
+772 silly mapToRegistry registry https://registry.npmjs.org/
+773 silly mapToRegistry data Result {
+773 silly mapToRegistry   raw: 'has-ansi',
+773 silly mapToRegistry   scope: null,
+773 silly mapToRegistry   name: 'has-ansi',
+773 silly mapToRegistry   rawSpec: '',
+773 silly mapToRegistry   spec: 'latest',
+773 silly mapToRegistry   type: 'tag' }
+774 silly mapToRegistry uri https://registry.npmjs.org/has-ansi
+775 verbose addNameRange registry:https://registry.npmjs.org/has-ansi not in flight; fetching
+776 silly cache add args [ 'strip-ansi@^0.3.0', null ]
+777 verbose cache add spec strip-ansi@^0.3.0
+778 silly cache add parsed spec Result {
+778 silly cache add   raw: 'strip-ansi@^0.3.0',
+778 silly cache add   scope: null,
+778 silly cache add   name: 'strip-ansi',
+778 silly cache add   rawSpec: '^0.3.0',
+778 silly cache add   spec: '>=0.3.0 <0.4.0',
+778 silly cache add   type: 'range' }
+779 silly addNamed strip-ansi@>=0.3.0 <0.4.0
+780 verbose addNamed ">=0.3.0 <0.4.0" is a valid semver range for strip-ansi
+781 silly addNameRange { name: 'strip-ansi', range: '>=0.3.0 <0.4.0', hasData: false }
+782 silly mapToRegistry name strip-ansi
+783 silly mapToRegistry using default registry
+784 silly mapToRegistry registry https://registry.npmjs.org/
+785 silly mapToRegistry data Result {
+785 silly mapToRegistry   raw: 'strip-ansi',
+785 silly mapToRegistry   scope: null,
+785 silly mapToRegistry   name: 'strip-ansi',
+785 silly mapToRegistry   rawSpec: '',
+785 silly mapToRegistry   spec: 'latest',
+785 silly mapToRegistry   type: 'tag' }
+786 silly mapToRegistry uri https://registry.npmjs.org/strip-ansi
+787 verbose addNameRange registry:https://registry.npmjs.org/strip-ansi not in flight; fetching
+788 silly cache add args [ 'supports-color@^0.2.0', null ]
+789 verbose cache add spec supports-color@^0.2.0
+790 silly cache add parsed spec Result {
+790 silly cache add   raw: 'supports-color@^0.2.0',
+790 silly cache add   scope: null,
+790 silly cache add   name: 'supports-color',
+790 silly cache add   rawSpec: '^0.2.0',
+790 silly cache add   spec: '>=0.2.0 <0.3.0',
+790 silly cache add   type: 'range' }
+791 silly addNamed supports-color@>=0.2.0 <0.3.0
+792 verbose addNamed ">=0.2.0 <0.3.0" is a valid semver range for supports-color
+793 silly addNameRange { name: 'supports-color',
+793 silly addNameRange   range: '>=0.2.0 <0.3.0',
+793 silly addNameRange   hasData: false }
+794 silly mapToRegistry name supports-color
+795 silly mapToRegistry using default registry
+796 silly mapToRegistry registry https://registry.npmjs.org/
+797 silly mapToRegistry data Result {
+797 silly mapToRegistry   raw: 'supports-color',
+797 silly mapToRegistry   scope: null,
+797 silly mapToRegistry   name: 'supports-color',
+797 silly mapToRegistry   rawSpec: '',
+797 silly mapToRegistry   spec: 'latest',
+797 silly mapToRegistry   type: 'tag' }
+798 silly mapToRegistry uri https://registry.npmjs.org/supports-color
+799 verbose addNameRange registry:https://registry.npmjs.org/supports-color not in flight; fetching
+800 verbose request uri https://registry.npmjs.org/strip-ansi
+801 verbose request no auth needed
+802 info attempt registry request try #1 at 11:18:37 PM
+803 verbose etag "HJ1VDHRPTQH2UHAD3VKVZ8UY"
+804 http request GET https://registry.npmjs.org/strip-ansi
+805 verbose request uri https://registry.npmjs.org/supports-color
+806 verbose request no auth needed
+807 info attempt registry request try #1 at 11:18:37 PM
+808 verbose etag "4WOQ6D521QKAWSP32LUWY6489"
+809 http request GET https://registry.npmjs.org/supports-color
+810 verbose request uri https://registry.npmjs.org/ansi-styles
+811 verbose request no auth needed
+812 info attempt registry request try #1 at 11:18:37 PM
+813 verbose etag "94H0KROSM6LLXZPICA81SIC10"
+814 http request GET https://registry.npmjs.org/ansi-styles
+815 verbose request uri https://registry.npmjs.org/has-ansi
+816 verbose request no auth needed
+817 info attempt registry request try #1 at 11:18:37 PM
+818 verbose etag "B8S16FRSH9B7DIJ796447I9LR"
+819 http request GET https://registry.npmjs.org/has-ansi
+820 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt\package.json
+821 info preinstall nopt@3.0.6
+822 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt\package.json
+823 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt\package.json
+824 silly install resolved []
+825 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+826 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+827 info linkStuff nopt@3.0.6
+828 silly linkStuff nopt@3.0.6 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules as its parent node_modules
+829 verbose linkBins nopt@3.0.6
+830 verbose link bins [ { nopt: './bin/nopt.js' },
+830 verbose link bins   'E:\\DA-IICT\\Sem 3\\Sen\\project Code\\web\\sen6\\node_modules\\node-svm\\node_modules\\.bin',
+830 verbose link bins   false ]
+831 verbose linkMans nopt@3.0.6
+832 verbose rebuildBundles nopt@3.0.6
+833 info install nopt@3.0.6
+834 info postinstall nopt@3.0.6
+835 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\nopt-fd1c3894d5a42a65.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\nopt
+836 http 200 https://registry.npmjs.org/strip-ansi
+837 verbose headers { server: 'nginx/1.10.1',
+837 verbose headers   'content-type': 'application/json',
+837 verbose headers   'last-modified': 'Tue, 01 Nov 2016 18:41:25 GMT',
+837 verbose headers   etag: 'W/"5818e1d5-3e04"',
+837 verbose headers   'content-encoding': 'gzip',
+837 verbose headers   'cache-control': 'max-age=300',
+837 verbose headers   'content-length': '2346',
+837 verbose headers   'accept-ranges': 'bytes',
+837 verbose headers   date: 'Thu, 17 Nov 2016 17:48:32 GMT',
+837 verbose headers   via: '1.1 varnish',
+837 verbose headers   age: '199',
+837 verbose headers   connection: 'keep-alive',
+837 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+837 verbose headers   'x-cache': 'HIT',
+837 verbose headers   'x-cache-hits': '18',
+837 verbose headers   'x-timer': 'S1479404912.686775,VS0,VE0',
+837 verbose headers   vary: 'Accept-Encoding' }
+838 silly get cb [ 200,
+838 silly get   { server: 'nginx/1.10.1',
+838 silly get     'content-type': 'application/json',
+838 silly get     'last-modified': 'Tue, 01 Nov 2016 18:41:25 GMT',
+838 silly get     etag: 'W/"5818e1d5-3e04"',
+838 silly get     'content-encoding': 'gzip',
+838 silly get     'cache-control': 'max-age=300',
+838 silly get     'content-length': '2346',
+838 silly get     'accept-ranges': 'bytes',
+838 silly get     date: 'Thu, 17 Nov 2016 17:48:32 GMT',
+838 silly get     via: '1.1 varnish',
+838 silly get     age: '199',
+838 silly get     connection: 'keep-alive',
+838 silly get     'x-served-by': 'cache-sin6927-SIN',
+838 silly get     'x-cache': 'HIT',
+838 silly get     'x-cache-hits': '18',
+838 silly get     'x-timer': 'S1479404912.686775,VS0,VE0',
+838 silly get     vary: 'Accept-Encoding' } ]
+839 verbose get saving strip-ansi to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\strip-ansi\.cache.json
+840 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+841 silly addNameRange number 2 { name: 'strip-ansi', range: '>=0.3.0 <0.4.0', hasData: true }
+842 silly addNameRange versions [ 'strip-ansi',
+842 silly addNameRange   [ '0.1.0',
+842 silly addNameRange     '0.1.1',
+842 silly addNameRange     '0.2.0',
+842 silly addNameRange     '0.2.1',
+842 silly addNameRange     '0.2.2',
+842 silly addNameRange     '0.3.0',
+842 silly addNameRange     '1.0.0',
+842 silly addNameRange     '2.0.0',
+842 silly addNameRange     '2.0.1',
+842 silly addNameRange     '3.0.0',
+842 silly addNameRange     '3.0.1' ] ]
+843 silly addNamed strip-ansi@0.3.0
+844 verbose addNamed "0.3.0" is a plain semver version for strip-ansi
+845 silly cache afterAdd strip-ansi@0.3.0
+846 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\strip-ansi\0.3.0\package\package.json not in flight; writing
+847 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+848 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\strip-ansi\0.3.0\package\package.json written
+849 http 200 https://registry.npmjs.org/supports-color
+850 verbose headers { server: 'nginx/1.10.1',
+850 verbose headers   'content-type': 'application/json',
+850 verbose headers   'last-modified': 'Tue, 01 Nov 2016 18:41:50 GMT',
+850 verbose headers   etag: 'W/"5818e1ee-4fa0"',
+850 verbose headers   'content-encoding': 'gzip',
+850 verbose headers   'cache-control': 'max-age=300',
+850 verbose headers   'content-length': '2889',
+850 verbose headers   'accept-ranges': 'bytes',
+850 verbose headers   date: 'Thu, 17 Nov 2016 17:48:32 GMT',
+850 verbose headers   via: '1.1 varnish',
+850 verbose headers   age: '199',
+850 verbose headers   connection: 'keep-alive',
+850 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+850 verbose headers   'x-cache': 'HIT',
+850 verbose headers   'x-cache-hits': '16',
+850 verbose headers   'x-timer': 'S1479404912.700061,VS0,VE0',
+850 verbose headers   vary: 'Accept-Encoding' }
+851 silly get cb [ 200,
+851 silly get   { server: 'nginx/1.10.1',
+851 silly get     'content-type': 'application/json',
+851 silly get     'last-modified': 'Tue, 01 Nov 2016 18:41:50 GMT',
+851 silly get     etag: 'W/"5818e1ee-4fa0"',
+851 silly get     'content-encoding': 'gzip',
+851 silly get     'cache-control': 'max-age=300',
+851 silly get     'content-length': '2889',
+851 silly get     'accept-ranges': 'bytes',
+851 silly get     date: 'Thu, 17 Nov 2016 17:48:32 GMT',
+851 silly get     via: '1.1 varnish',
+851 silly get     age: '199',
+851 silly get     connection: 'keep-alive',
+851 silly get     'x-served-by': 'cache-sin6927-SIN',
+851 silly get     'x-cache': 'HIT',
+851 silly get     'x-cache-hits': '16',
+851 silly get     'x-timer': 'S1479404912.700061,VS0,VE0',
+851 silly get     vary: 'Accept-Encoding' } ]
+852 verbose get saving supports-color to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\supports-color\.cache.json
+853 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+854 silly addNameRange number 2 { name: 'supports-color',
+854 silly addNameRange   range: '>=0.2.0 <0.3.0',
+854 silly addNameRange   hasData: true }
+855 silly addNameRange versions [ 'supports-color',
+855 silly addNameRange   [ '0.2.0',
+855 silly addNameRange     '1.0.0',
+855 silly addNameRange     '1.1.0',
+855 silly addNameRange     '1.2.0',
+855 silly addNameRange     '1.2.1',
+855 silly addNameRange     '1.3.0',
+855 silly addNameRange     '1.3.1',
+855 silly addNameRange     '2.0.0',
+855 silly addNameRange     '3.0.0',
+855 silly addNameRange     '3.0.1',
+855 silly addNameRange     '3.1.0',
+855 silly addNameRange     '3.1.1',
+855 silly addNameRange     '3.1.2' ] ]
+856 silly addNamed supports-color@0.2.0
+857 verbose addNamed "0.2.0" is a plain semver version for supports-color
+858 silly cache afterAdd supports-color@0.2.0
+859 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\supports-color\0.2.0\package\package.json not in flight; writing
+860 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+861 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\supports-color\0.2.0\package\package.json written
+862 http 200 https://registry.npmjs.org/ansi-styles
+863 verbose headers { server: 'nginx/1.10.1',
+863 verbose headers   'content-type': 'application/json',
+863 verbose headers   'last-modified': 'Sat, 01 Oct 2016 23:17:23 GMT',
+863 verbose headers   etag: 'W/"57f04403-39d2"',
+863 verbose headers   'content-encoding': 'gzip',
+863 verbose headers   'cache-control': 'max-age=300',
+863 verbose headers   'content-length': '2592',
+863 verbose headers   'accept-ranges': 'bytes',
+863 verbose headers   date: 'Thu, 17 Nov 2016 17:48:33 GMT',
+863 verbose headers   via: '1.1 varnish',
+863 verbose headers   age: '199',
+863 verbose headers   connection: 'keep-alive',
+863 verbose headers   'x-served-by': 'cache-sin6925-SIN',
+863 verbose headers   'x-cache': 'HIT',
+863 verbose headers   'x-cache-hits': '25',
+863 verbose headers   'x-timer': 'S1479404913.115370,VS0,VE0',
+863 verbose headers   vary: 'Accept-Encoding' }
+864 silly get cb [ 200,
+864 silly get   { server: 'nginx/1.10.1',
+864 silly get     'content-type': 'application/json',
+864 silly get     'last-modified': 'Sat, 01 Oct 2016 23:17:23 GMT',
+864 silly get     etag: 'W/"57f04403-39d2"',
+864 silly get     'content-encoding': 'gzip',
+864 silly get     'cache-control': 'max-age=300',
+864 silly get     'content-length': '2592',
+864 silly get     'accept-ranges': 'bytes',
+864 silly get     date: 'Thu, 17 Nov 2016 17:48:33 GMT',
+864 silly get     via: '1.1 varnish',
+864 silly get     age: '199',
+864 silly get     connection: 'keep-alive',
+864 silly get     'x-served-by': 'cache-sin6925-SIN',
+864 silly get     'x-cache': 'HIT',
+864 silly get     'x-cache-hits': '25',
+864 silly get     'x-timer': 'S1479404913.115370,VS0,VE0',
+864 silly get     vary: 'Accept-Encoding' } ]
+865 verbose get saving ansi-styles to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\ansi-styles\.cache.json
+866 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+867 http 200 https://registry.npmjs.org/has-ansi
+868 verbose headers { server: 'nginx/1.10.1',
+868 verbose headers   'content-type': 'application/json',
+868 verbose headers   'last-modified': 'Tue, 01 Nov 2016 17:28:24 GMT',
+868 verbose headers   etag: 'W/"5818d0b8-2711"',
+868 verbose headers   'content-encoding': 'gzip',
+868 verbose headers   'cache-control': 'max-age=300',
+868 verbose headers   'content-length': '1841',
+868 verbose headers   'accept-ranges': 'bytes',
+868 verbose headers   date: 'Thu, 17 Nov 2016 17:48:33 GMT',
+868 verbose headers   via: '1.1 varnish',
+868 verbose headers   age: '152',
+868 verbose headers   connection: 'keep-alive',
+868 verbose headers   'x-served-by': 'cache-sin6921-SIN',
+868 verbose headers   'x-cache': 'HIT',
+868 verbose headers   'x-cache-hits': '9',
+868 verbose headers   'x-timer': 'S1479404913.124011,VS0,VE0',
+868 verbose headers   vary: 'Accept-Encoding' }
+869 silly get cb [ 200,
+869 silly get   { server: 'nginx/1.10.1',
+869 silly get     'content-type': 'application/json',
+869 silly get     'last-modified': 'Tue, 01 Nov 2016 17:28:24 GMT',
+869 silly get     etag: 'W/"5818d0b8-2711"',
+869 silly get     'content-encoding': 'gzip',
+869 silly get     'cache-control': 'max-age=300',
+869 silly get     'content-length': '1841',
+869 silly get     'accept-ranges': 'bytes',
+869 silly get     date: 'Thu, 17 Nov 2016 17:48:33 GMT',
+869 silly get     via: '1.1 varnish',
+869 silly get     age: '152',
+869 silly get     connection: 'keep-alive',
+869 silly get     'x-served-by': 'cache-sin6921-SIN',
+869 silly get     'x-cache': 'HIT',
+869 silly get     'x-cache-hits': '9',
+869 silly get     'x-timer': 'S1479404913.124011,VS0,VE0',
+869 silly get     vary: 'Accept-Encoding' } ]
+870 verbose get saving has-ansi to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\has-ansi\.cache.json
+871 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+872 silly addNameRange number 2 { name: 'has-ansi', range: '>=0.1.0 <0.2.0', hasData: true }
+873 silly addNameRange versions [ 'has-ansi',
+873 silly addNameRange   [ '0.1.0', '1.0.0', '1.0.1', '1.0.2', '1.0.3', '2.0.0' ] ]
+874 silly addNamed has-ansi@0.1.0
+875 verbose addNamed "0.1.0" is a plain semver version for has-ansi
+876 silly addNameRange number 2 { name: 'ansi-styles', range: '>=1.1.0 <2.0.0', hasData: true }
+877 silly addNameRange versions [ 'ansi-styles',
+877 silly addNameRange   [ '0.1.0',
+877 silly addNameRange     '0.1.1',
+877 silly addNameRange     '0.1.2',
+877 silly addNameRange     '0.2.0',
+877 silly addNameRange     '1.0.0',
+877 silly addNameRange     '1.1.0',
+877 silly addNameRange     '2.0.0',
+877 silly addNameRange     '2.0.1',
+877 silly addNameRange     '2.1.0',
+877 silly addNameRange     '2.2.1' ] ]
+878 silly addNamed ansi-styles@1.1.0
+879 verbose addNamed "1.1.0" is a plain semver version for ansi-styles
+880 silly cache afterAdd ansi-styles@1.1.0
+881 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-styles\1.1.0\package\package.json not in flight; writing
+882 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+883 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-styles\1.1.0\package\package.json written
+884 silly cache afterAdd has-ansi@0.1.0
+885 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\has-ansi\0.1.0\package\package.json not in flight; writing
+886 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+887 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\has-ansi\0.1.0\package\package.json written
+888 silly install resolved [ { name: 'strip-ansi',
+888 silly install resolved     version: '0.3.0',
+888 silly install resolved     description: 'Strip ANSI escape codes',
+888 silly install resolved     license: 'MIT',
+888 silly install resolved     bin: { 'strip-ansi': 'cli.js' },
+888 silly install resolved     repository:
+888 silly install resolved      { type: 'git',
+888 silly install resolved        url: 'git://github.com/sindresorhus/strip-ansi.git' },
+888 silly install resolved     author:
+888 silly install resolved      { name: 'Sindre Sorhus',
+888 silly install resolved        email: 'sindresorhus@gmail.com',
+888 silly install resolved        url: 'http://sindresorhus.com' },
+888 silly install resolved     engines: { node: '>=0.10.0' },
+888 silly install resolved     scripts: { test: 'mocha' },
+888 silly install resolved     files: [ 'index.js', 'cli.js' ],
+888 silly install resolved     keywords:
+888 silly install resolved      [ 'strip',
+888 silly install resolved        'trim',
+888 silly install resolved        'remove',
+888 silly install resolved        'ansi',
+888 silly install resolved        'styles',
+888 silly install resolved        'color',
+888 silly install resolved        'colour',
+888 silly install resolved        'colors',
+888 silly install resolved        'terminal',
+888 silly install resolved        'console',
+888 silly install resolved        'cli',
+888 silly install resolved        'string',
+888 silly install resolved        'tty',
+888 silly install resolved        'escape',
+888 silly install resolved        'formatting',
+888 silly install resolved        'rgb',
+888 silly install resolved        '256',
+888 silly install resolved        'shell',
+888 silly install resolved        'xterm',
+888 silly install resolved        'log',
+888 silly install resolved        'logging',
+888 silly install resolved        'command-line',
+888 silly install resolved        'text' ],
+888 silly install resolved     dependencies: { 'ansi-regex': '^0.2.1' },
+888 silly install resolved     devDependencies: { mocha: '*' },
+888 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/strip-ansi/issues' },
+888 silly install resolved     homepage: 'https://github.com/sindresorhus/strip-ansi',
+888 silly install resolved     _id: 'strip-ansi@0.3.0',
+888 silly install resolved     _shasum: '25f48ea22ca79187f3174a4db8759347bb126220',
+888 silly install resolved     _from: 'strip-ansi@>=0.3.0 <0.4.0',
+888 silly install resolved     _npmVersion: '1.4.9',
+888 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+888 silly install resolved     maintainers: [ [Object] ],
+888 silly install resolved     dist:
+888 silly install resolved      { shasum: '25f48ea22ca79187f3174a4db8759347bb126220',
+888 silly install resolved        tarball: 'https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz' },
+888 silly install resolved     directories: {},
+888 silly install resolved     _resolved: 'https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz',
+888 silly install resolved     readme: 'ERROR: No README data found!' },
+888 silly install resolved   { name: 'supports-color',
+888 silly install resolved     version: '0.2.0',
+888 silly install resolved     description: 'Detect whether a terminal supports color',
+888 silly install resolved     license: 'MIT',
+888 silly install resolved     repository:
+888 silly install resolved      { type: 'git',
+888 silly install resolved        url: 'git://github.com/sindresorhus/supports-color.git' },
+888 silly install resolved     bin: { 'supports-color': 'cli.js' },
+888 silly install resolved     author:
+888 silly install resolved      { name: 'Sindre Sorhus',
+888 silly install resolved        email: 'sindresorhus@gmail.com',
+888 silly install resolved        url: 'http://sindresorhus.com' },
+888 silly install resolved     engines: { node: '>=0.10.0' },
+888 silly install resolved     scripts: { test: 'mocha' },
+888 silly install resolved     files: [ 'index.js', 'cli.js' ],
+888 silly install resolved     keywords:
+888 silly install resolved      [ 'cli',
+888 silly install resolved        'bin',
+888 silly install resolved        'color',
+888 silly install resolved        'colour',
+888 silly install resolved        'colors',
+888 silly install resolved        'terminal',
+888 silly install resolved        'console',
+888 silly install resolved        'cli',
+888 silly install resolved        'ansi',
+888 silly install resolved        'styles',
+888 silly install resolved        'tty',
+888 silly install resolved        'rgb',
+888 silly install resolved        '256',
+888 silly install resolved        'shell',
+888 silly install resolved        'xterm',
+888 silly install resolved        'command-line',
+888 silly install resolved        'support',
+888 silly install resolved        'supports',
+888 silly install resolved        'capability',
+888 silly install resolved        'detect' ],
+888 silly install resolved     devDependencies: { mocha: '*' },
+888 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/supports-color/issues' },
+888 silly install resolved     homepage: 'https://github.com/sindresorhus/supports-color',
+888 silly install resolved     _id: 'supports-color@0.2.0',
+888 silly install resolved     _shasum: 'd92de2694eb3f67323973d7ae3d8b55b4c22190a',
+888 silly install resolved     _from: 'supports-color@>=0.2.0 <0.3.0',
+888 silly install resolved     _npmVersion: '1.4.9',
+888 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+888 silly install resolved     maintainers: [ [Object] ],
+888 silly install resolved     dist:
+888 silly install resolved      { shasum: 'd92de2694eb3f67323973d7ae3d8b55b4c22190a',
+888 silly install resolved        tarball: 'https://registry.npmjs.org/supports-color/-/supports-color-0.2.0.tgz' },
+888 silly install resolved     directories: {},
+888 silly install resolved     _resolved: 'https://registry.npmjs.org/supports-color/-/supports-color-0.2.0.tgz',
+888 silly install resolved     readme: 'ERROR: No README data found!' },
+888 silly install resolved   { name: 'ansi-styles',
+888 silly install resolved     version: '1.1.0',
+888 silly install resolved     description: 'ANSI escape codes for styling strings in the terminal',
+888 silly install resolved     license: 'MIT',
+888 silly install resolved     repository:
+888 silly install resolved      { type: 'git',
+888 silly install resolved        url: 'git://github.com/sindresorhus/ansi-styles.git' },
+888 silly install resolved     author:
+888 silly install resolved      { name: 'Sindre Sorhus',
+888 silly install resolved        email: 'sindresorhus@gmail.com',
+888 silly install resolved        url: 'http://sindresorhus.com' },
+888 silly install resolved     engines: { node: '>=0.10.0' },
+888 silly install resolved     scripts: { test: 'mocha' },
+888 silly install resolved     files: [ 'index.js' ],
+888 silly install resolved     keywords:
+888 silly install resolved      [ 'ansi',
+888 silly install resolved        'styles',
+888 silly install resolved        'color',
+888 silly install resolved        'colour',
+888 silly install resolved        'colors',
+888 silly install resolved        'terminal',
+888 silly install resolved        'console',
+888 silly install resolved        'cli',
+888 silly install resolved        'string',
+888 silly install resolved        'tty',
+888 silly install resolved        'escape',
+888 silly install resolved        'formatting',
+888 silly install resolved        'rgb',
+888 silly install resolved        '256',
+888 silly install resolved        'shell',
+888 silly install resolved        'xterm',
+888 silly install resolved        'log',
+888 silly install resolved        'logging',
+888 silly install resolved        'command-line',
+888 silly install resolved        'text' ],
+888 silly install resolved     devDependencies: { mocha: '*' },
+888 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/ansi-styles/issues' },
+888 silly install resolved     homepage: 'https://github.com/sindresorhus/ansi-styles',
+888 silly install resolved     _id: 'ansi-styles@1.1.0',
+888 silly install resolved     _shasum: 'eaecbf66cd706882760b2f4691582b8f55d7a7de',
+888 silly install resolved     _from: 'ansi-styles@>=1.1.0 <2.0.0',
+888 silly install resolved     _npmVersion: '1.4.9',
+888 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+888 silly install resolved     maintainers: [ [Object] ],
+888 silly install resolved     dist:
+888 silly install resolved      { shasum: 'eaecbf66cd706882760b2f4691582b8f55d7a7de',
+888 silly install resolved        tarball: 'https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz' },
+888 silly install resolved     directories: {},
+888 silly install resolved     _resolved: 'https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz',
+888 silly install resolved     readme: 'ERROR: No README data found!' },
+888 silly install resolved   { name: 'has-ansi',
+888 silly install resolved     version: '0.1.0',
+888 silly install resolved     description: 'Check if a string has ANSI escape codes',
+888 silly install resolved     license: 'MIT',
+888 silly install resolved     repository:
+888 silly install resolved      { type: 'git',
+888 silly install resolved        url: 'git://github.com/sindresorhus/has-ansi.git' },
+888 silly install resolved     bin: { 'has-ansi': 'cli.js' },
+888 silly install resolved     author:
+888 silly install resolved      { name: 'Sindre Sorhus',
+888 silly install resolved        email: 'sindresorhus@gmail.com',
+888 silly install resolved        url: 'http://sindresorhus.com' },
+888 silly install resolved     engines: { node: '>=0.10.0' },
+888 silly install resolved     scripts: { test: 'mocha' },
+888 silly install resolved     files: [ 'index.js', 'cli.js' ],
+888 silly install resolved     keywords:
+888 silly install resolved      [ 'cli',
+888 silly install resolved        'bin',
+888 silly install resolved        'ansi',
+888 silly install resolved        'styles',
+888 silly install resolved        'color',
+888 silly install resolved        'colour',
+888 silly install resolved        'colors',
+888 silly install resolved        'terminal',
+888 silly install resolved        'console',
+888 silly install resolved        'string',
+888 silly install resolved        'tty',
+888 silly install resolved        'escape',
+888 silly install resolved        'shell',
+888 silly install resolved        'xterm',
+888 silly install resolved        'command-line',
+888 silly install resolved        'text',
+888 silly install resolved        'regex',
+888 silly install resolved        'regexp',
+888 silly install resolved        're',
+888 silly install resolved        'match',
+888 silly install resolved        'test',
+888 silly install resolved        'find',
+888 silly install resolved        'pattern',
+888 silly install resolved        'has' ],
+888 silly install resolved     dependencies: { 'ansi-regex': '^0.2.0' },
+888 silly install resolved     devDependencies: { mocha: '*' },
+888 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/has-ansi/issues' },
+888 silly install resolved     homepage: 'https://github.com/sindresorhus/has-ansi',
+888 silly install resolved     _id: 'has-ansi@0.1.0',
+888 silly install resolved     _shasum: '84f265aae8c0e6a88a12d7022894b7568894c62e',
+888 silly install resolved     _from: 'has-ansi@>=0.1.0 <0.2.0',
+888 silly install resolved     _npmVersion: '1.4.9',
+888 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+888 silly install resolved     maintainers: [ [Object] ],
+888 silly install resolved     dist:
+888 silly install resolved      { shasum: '84f265aae8c0e6a88a12d7022894b7568894c62e',
+888 silly install resolved        tarball: 'https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz' },
+888 silly install resolved     directories: {},
+888 silly install resolved     _resolved: 'https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz',
+888 silly install resolved     readme: 'ERROR: No README data found!' } ]
+889 info install strip-ansi@0.3.0 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+890 info install supports-color@0.2.0 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+891 info install ansi-styles@1.1.0 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+892 info install has-ansi@0.1.0 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+893 info installOne strip-ansi@0.3.0
+894 verbose installOne of strip-ansi to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk not in flight; installing
+895 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+896 info installOne supports-color@0.2.0
+897 verbose installOne of supports-color to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk not in flight; installing
+898 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+899 info installOne ansi-styles@1.1.0
+900 verbose installOne of ansi-styles to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk not in flight; installing
+901 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+902 info installOne has-ansi@0.1.0
+903 verbose installOne of has-ansi to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk not in flight; installing
+904 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+905 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\supports-color-e201e918c14c4caf.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+906 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\strip-ansi-156847db11b32ba5.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+907 silly install write writing supports-color 0.2.0 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+908 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\ansi-styles-ebe5d2fbad3af8a7.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+909 silly install write writing strip-ansi 0.3.0 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+910 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\has-ansi-51b9186322dc64c8.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+911 silly install write writing ansi-styles 1.1.0 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+912 silly install write writing has-ansi 0.1.0 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+913 verbose unbuild node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+914 verbose unbuild node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+915 verbose unbuild node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+916 verbose unbuild node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+917 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+918 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+919 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+920 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+921 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+922 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+923 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\supports-color\0.2.0\package.tgz
+924 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+925 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color is being purged
+926 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+927 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\strip-ansi\0.3.0\package.tgz
+928 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+929 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi is being purged
+930 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+931 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-styles\1.1.0\package.tgz
+932 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+933 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles is being purged
+934 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+935 silly gunzTarPerm modes [ '777', '666' ]
+936 silly gunzTarPerm modes [ '777', '666' ]
+937 silly gunzTarPerm modes [ '777', '666' ]
+938 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+939 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+940 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\has-ansi\0.1.0\package.tgz
+941 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+942 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi is being purged
+943 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+944 silly gunzTarPerm modes [ '777', '666' ]
+945 silly gunzTarPerm extractEntry package.json
+946 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+947 silly gunzTarPerm extractEntry package.json
+948 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+949 silly gunzTarPerm extractEntry package.json
+950 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+951 silly gunzTarPerm extractEntry package.json
+952 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+953 silly gunzTarPerm extractEntry cli.js
+954 silly gunzTarPerm modified mode [ 'cli.js', 493, 511 ]
+955 silly gunzTarPerm extractEntry index.js
+956 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+957 silly gunzTarPerm extractEntry index.js
+958 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+959 silly gunzTarPerm extractEntry readme.md
+960 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+961 silly gunzTarPerm extractEntry cli.js
+962 silly gunzTarPerm modified mode [ 'cli.js', 493, 511 ]
+963 silly gunzTarPerm extractEntry index.js
+964 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+965 silly gunzTarPerm extractEntry cli.js
+966 silly gunzTarPerm modified mode [ 'cli.js', 493, 511 ]
+967 silly gunzTarPerm extractEntry index.js
+968 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+969 silly gunzTarPerm extractEntry readme.md
+970 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+971 silly gunzTarPerm extractEntry readme.md
+972 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+973 silly gunzTarPerm extractEntry readme.md
+974 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+975 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles\package.json
+976 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\package.json
+977 info preinstall ansi-styles@1.1.0
+978 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\package.json
+979 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles\package.json
+980 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles\package.json
+981 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color\package.json
+982 info preinstall strip-ansi@0.3.0
+983 info preinstall has-ansi@0.1.0
+984 silly install resolved []
+985 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+986 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+987 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\package.json
+988 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\package.json
+989 info linkStuff ansi-styles@1.1.0
+990 silly linkStuff ansi-styles@1.1.0 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules as its parent node_modules
+991 silly prepareForInstallMany adding ansi-regex@^0.2.1 from strip-ansi dependencies
+992 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\package.json
+993 silly prepareForInstallMany adding ansi-regex@^0.2.0 from has-ansi dependencies
+994 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\package.json
+995 info preinstall supports-color@0.2.0
+996 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color\package.json
+997 silly cache add args [ 'ansi-regex@^0.2.1', null ]
+998 verbose cache add spec ansi-regex@^0.2.1
+999 silly cache add args [ 'ansi-regex@^0.2.0', null ]
+1000 verbose cache add spec ansi-regex@^0.2.0
+1001 silly cache add parsed spec Result {
+1001 silly cache add   raw: 'ansi-regex@^0.2.1',
+1001 silly cache add   scope: null,
+1001 silly cache add   name: 'ansi-regex',
+1001 silly cache add   rawSpec: '^0.2.1',
+1001 silly cache add   spec: '>=0.2.1 <0.3.0',
+1001 silly cache add   type: 'range' }
+1002 silly addNamed ansi-regex@>=0.2.1 <0.3.0
+1003 verbose addNamed ">=0.2.1 <0.3.0" is a valid semver range for ansi-regex
+1004 silly addNameRange { name: 'ansi-regex', range: '>=0.2.1 <0.3.0', hasData: false }
+1005 silly mapToRegistry name ansi-regex
+1006 silly mapToRegistry using default registry
+1007 silly mapToRegistry registry https://registry.npmjs.org/
+1008 silly mapToRegistry data Result {
+1008 silly mapToRegistry   raw: 'ansi-regex',
+1008 silly mapToRegistry   scope: null,
+1008 silly mapToRegistry   name: 'ansi-regex',
+1008 silly mapToRegistry   rawSpec: '',
+1008 silly mapToRegistry   spec: 'latest',
+1008 silly mapToRegistry   type: 'tag' }
+1009 silly mapToRegistry uri https://registry.npmjs.org/ansi-regex
+1010 verbose addNameRange registry:https://registry.npmjs.org/ansi-regex not in flight; fetching
+1011 silly cache add parsed spec Result {
+1011 silly cache add   raw: 'ansi-regex@^0.2.0',
+1011 silly cache add   scope: null,
+1011 silly cache add   name: 'ansi-regex',
+1011 silly cache add   rawSpec: '^0.2.0',
+1011 silly cache add   spec: '>=0.2.0 <0.3.0',
+1011 silly cache add   type: 'range' }
+1012 silly addNamed ansi-regex@>=0.2.0 <0.3.0
+1013 verbose addNamed ">=0.2.0 <0.3.0" is a valid semver range for ansi-regex
+1014 silly addNameRange { name: 'ansi-regex', range: '>=0.2.0 <0.3.0', hasData: false }
+1015 silly mapToRegistry name ansi-regex
+1016 silly mapToRegistry using default registry
+1017 silly mapToRegistry registry https://registry.npmjs.org/
+1018 silly mapToRegistry data Result {
+1018 silly mapToRegistry   raw: 'ansi-regex',
+1018 silly mapToRegistry   scope: null,
+1018 silly mapToRegistry   name: 'ansi-regex',
+1018 silly mapToRegistry   rawSpec: '',
+1018 silly mapToRegistry   spec: 'latest',
+1018 silly mapToRegistry   type: 'tag' }
+1019 silly mapToRegistry uri https://registry.npmjs.org/ansi-regex
+1020 verbose addNameRange registry:https://registry.npmjs.org/ansi-regex already in flight; waiting
+1021 verbose linkBins ansi-styles@1.1.0
+1022 verbose linkMans ansi-styles@1.1.0
+1023 verbose rebuildBundles ansi-styles@1.1.0
+1024 info install ansi-styles@1.1.0
+1025 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color\package.json
+1026 info postinstall ansi-styles@1.1.0
+1027 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\ansi-styles-ebe5d2fbad3af8a7.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\ansi-styles
+1028 silly install resolved []
+1029 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+1030 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+1031 info linkStuff supports-color@0.2.0
+1032 silly linkStuff supports-color@0.2.0 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules as its parent node_modules
+1033 verbose linkBins supports-color@0.2.0
+1034 verbose link bins [ { 'supports-color': 'cli.js' },
+1034 verbose link bins   'E:\\DA-IICT\\Sem 3\\Sen\\project Code\\web\\sen6\\node_modules\\node-svm\\node_modules\\chalk\\node_modules\\.bin',
+1034 verbose link bins   false ]
+1035 verbose linkMans supports-color@0.2.0
+1036 verbose rebuildBundles supports-color@0.2.0
+1037 info install supports-color@0.2.0
+1038 info postinstall supports-color@0.2.0
+1039 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\supports-color-e201e918c14c4caf.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\supports-color
+1040 verbose request uri https://registry.npmjs.org/ansi-regex
+1041 verbose request no auth needed
+1042 info attempt registry request try #1 at 11:18:38 PM
+1043 verbose etag "CKE31V40EH4MXSJXK1IU288O4"
+1044 http request GET https://registry.npmjs.org/ansi-regex
+1045 http 200 https://registry.npmjs.org/ansi-regex
+1046 verbose headers { server: 'nginx/1.10.1',
+1046 verbose headers   'content-type': 'application/json',
+1046 verbose headers   'last-modified': 'Wed, 19 Oct 2016 10:07:00 GMT',
+1046 verbose headers   etag: 'W/"580745c4-2987"',
+1046 verbose headers   'content-encoding': 'gzip',
+1046 verbose headers   'cache-control': 'max-age=300',
+1046 verbose headers   'content-length': '1713',
+1046 verbose headers   'accept-ranges': 'bytes',
+1046 verbose headers   date: 'Thu, 17 Nov 2016 17:48:33 GMT',
+1046 verbose headers   via: '1.1 varnish',
+1046 verbose headers   age: '72',
+1046 verbose headers   connection: 'keep-alive',
+1046 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+1046 verbose headers   'x-cache': 'HIT',
+1046 verbose headers   'x-cache-hits': '7',
+1046 verbose headers   'x-timer': 'S1479404913.625983,VS0,VE0',
+1046 verbose headers   vary: 'Accept-Encoding' }
+1047 silly get cb [ 200,
+1047 silly get   { server: 'nginx/1.10.1',
+1047 silly get     'content-type': 'application/json',
+1047 silly get     'last-modified': 'Wed, 19 Oct 2016 10:07:00 GMT',
+1047 silly get     etag: 'W/"580745c4-2987"',
+1047 silly get     'content-encoding': 'gzip',
+1047 silly get     'cache-control': 'max-age=300',
+1047 silly get     'content-length': '1713',
+1047 silly get     'accept-ranges': 'bytes',
+1047 silly get     date: 'Thu, 17 Nov 2016 17:48:33 GMT',
+1047 silly get     via: '1.1 varnish',
+1047 silly get     age: '72',
+1047 silly get     connection: 'keep-alive',
+1047 silly get     'x-served-by': 'cache-sin6927-SIN',
+1047 silly get     'x-cache': 'HIT',
+1047 silly get     'x-cache-hits': '7',
+1047 silly get     'x-timer': 'S1479404913.625983,VS0,VE0',
+1047 silly get     vary: 'Accept-Encoding' } ]
+1048 verbose get saving ansi-regex to C:\Users\Krunal\AppData\Roaming\npm-cache\registry.npmjs.org\ansi-regex\.cache.json
+1049 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+1050 silly addNameRange number 2 { name: 'ansi-regex', range: '>=0.2.1 <0.3.0', hasData: true }
+1051 silly addNameRange versions [ 'ansi-regex',
+1051 silly addNameRange   [ '0.1.0', '0.2.0', '0.2.1', '1.0.0', '1.1.0', '1.1.1', '2.0.0' ] ]
+1052 silly addNamed ansi-regex@0.2.1
+1053 verbose addNamed "0.2.1" is a plain semver version for ansi-regex
+1054 silly addNameRange number 2 { name: 'ansi-regex', range: '>=0.2.0 <0.3.0', hasData: true }
+1055 silly addNameRange versions [ 'ansi-regex',
+1055 silly addNameRange   [ '0.1.0', '0.2.0', '0.2.1', '1.0.0', '1.1.0', '1.1.1', '2.0.0' ] ]
+1056 silly addNamed ansi-regex@0.2.1
+1057 verbose addNamed "0.2.1" is a plain semver version for ansi-regex
+1058 silly cache afterAdd ansi-regex@0.2.1
+1059 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-regex\0.2.1\package\package.json not in flight; writing
+1060 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+1061 silly cache afterAdd ansi-regex@0.2.1
+1062 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-regex\0.2.1\package\package.json already in flight; not writing
+1063 verbose afterAdd C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-regex\0.2.1\package\package.json written
+1064 silly install resolved [ { name: 'ansi-regex',
+1064 silly install resolved     version: '0.2.1',
+1064 silly install resolved     description: 'Regular expression for matching ANSI escape codes',
+1064 silly install resolved     license: 'MIT',
+1064 silly install resolved     repository:
+1064 silly install resolved      { type: 'git',
+1064 silly install resolved        url: 'git://github.com/sindresorhus/ansi-regex.git' },
+1064 silly install resolved     author:
+1064 silly install resolved      { name: 'Sindre Sorhus',
+1064 silly install resolved        email: 'sindresorhus@gmail.com',
+1064 silly install resolved        url: 'http://sindresorhus.com' },
+1064 silly install resolved     engines: { node: '>=0.10.0' },
+1064 silly install resolved     scripts: { test: 'mocha' },
+1064 silly install resolved     files: [ 'index.js' ],
+1064 silly install resolved     keywords:
+1064 silly install resolved      [ 'ansi',
+1064 silly install resolved        'styles',
+1064 silly install resolved        'color',
+1064 silly install resolved        'colour',
+1064 silly install resolved        'colors',
+1064 silly install resolved        'terminal',
+1064 silly install resolved        'console',
+1064 silly install resolved        'cli',
+1064 silly install resolved        'string',
+1064 silly install resolved        'tty',
+1064 silly install resolved        'escape',
+1064 silly install resolved        'formatting',
+1064 silly install resolved        'rgb',
+1064 silly install resolved        '256',
+1064 silly install resolved        'shell',
+1064 silly install resolved        'xterm',
+1064 silly install resolved        'command-line',
+1064 silly install resolved        'text',
+1064 silly install resolved        'regex',
+1064 silly install resolved        'regexp',
+1064 silly install resolved        're',
+1064 silly install resolved        'match',
+1064 silly install resolved        'test',
+1064 silly install resolved        'find',
+1064 silly install resolved        'pattern' ],
+1064 silly install resolved     devDependencies: { mocha: '*' },
+1064 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/ansi-regex/issues' },
+1064 silly install resolved     homepage: 'https://github.com/sindresorhus/ansi-regex',
+1064 silly install resolved     _id: 'ansi-regex@0.2.1',
+1064 silly install resolved     _shasum: '0d8e946967a3d8143f93e24e298525fc1b2235f9',
+1064 silly install resolved     _from: 'ansi-regex@>=0.2.0 <0.3.0',
+1064 silly install resolved     _npmVersion: '1.4.9',
+1064 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+1064 silly install resolved     maintainers: [ [Object] ],
+1064 silly install resolved     dist:
+1064 silly install resolved      { shasum: '0d8e946967a3d8143f93e24e298525fc1b2235f9',
+1064 silly install resolved        tarball: 'https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz' },
+1064 silly install resolved     directories: {},
+1064 silly install resolved     _resolved: 'https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz',
+1064 silly install resolved     readme: 'ERROR: No README data found!' } ]
+1065 info install ansi-regex@0.2.1 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+1066 info installOne ansi-regex@0.2.1
+1067 verbose installOne of ansi-regex to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi not in flight; installing
+1068 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+1069 silly install resolved [ { name: 'ansi-regex',
+1069 silly install resolved     version: '0.2.1',
+1069 silly install resolved     description: 'Regular expression for matching ANSI escape codes',
+1069 silly install resolved     license: 'MIT',
+1069 silly install resolved     repository:
+1069 silly install resolved      { type: 'git',
+1069 silly install resolved        url: 'git://github.com/sindresorhus/ansi-regex.git' },
+1069 silly install resolved     author:
+1069 silly install resolved      { name: 'Sindre Sorhus',
+1069 silly install resolved        email: 'sindresorhus@gmail.com',
+1069 silly install resolved        url: 'http://sindresorhus.com' },
+1069 silly install resolved     engines: { node: '>=0.10.0' },
+1069 silly install resolved     scripts: { test: 'mocha' },
+1069 silly install resolved     files: [ 'index.js' ],
+1069 silly install resolved     keywords:
+1069 silly install resolved      [ 'ansi',
+1069 silly install resolved        'styles',
+1069 silly install resolved        'color',
+1069 silly install resolved        'colour',
+1069 silly install resolved        'colors',
+1069 silly install resolved        'terminal',
+1069 silly install resolved        'console',
+1069 silly install resolved        'cli',
+1069 silly install resolved        'string',
+1069 silly install resolved        'tty',
+1069 silly install resolved        'escape',
+1069 silly install resolved        'formatting',
+1069 silly install resolved        'rgb',
+1069 silly install resolved        '256',
+1069 silly install resolved        'shell',
+1069 silly install resolved        'xterm',
+1069 silly install resolved        'command-line',
+1069 silly install resolved        'text',
+1069 silly install resolved        'regex',
+1069 silly install resolved        'regexp',
+1069 silly install resolved        're',
+1069 silly install resolved        'match',
+1069 silly install resolved        'test',
+1069 silly install resolved        'find',
+1069 silly install resolved        'pattern' ],
+1069 silly install resolved     devDependencies: { mocha: '*' },
+1069 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/ansi-regex/issues' },
+1069 silly install resolved     homepage: 'https://github.com/sindresorhus/ansi-regex',
+1069 silly install resolved     _id: 'ansi-regex@0.2.1',
+1069 silly install resolved     _shasum: '0d8e946967a3d8143f93e24e298525fc1b2235f9',
+1069 silly install resolved     _from: 'ansi-regex@>=0.2.0 <0.3.0',
+1069 silly install resolved     _npmVersion: '1.4.9',
+1069 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+1069 silly install resolved     maintainers: [ [Object] ],
+1069 silly install resolved     dist:
+1069 silly install resolved      { shasum: '0d8e946967a3d8143f93e24e298525fc1b2235f9',
+1069 silly install resolved        tarball: 'https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz' },
+1069 silly install resolved     directories: {},
+1069 silly install resolved     _resolved: 'https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz',
+1069 silly install resolved     readme: 'ERROR: No README data found!' } ]
+1070 info install ansi-regex@0.2.1 into E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+1071 info installOne ansi-regex@0.2.1
+1072 verbose installOne of ansi-regex to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi not in flight; installing
+1073 verbose correctMkdir C:\Users\Krunal\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+1074 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\ansi-regex-b109545cbf0b53af.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1075 verbose lock using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\ansi-regex-6a58959fcddfc087.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1076 silly install write writing ansi-regex 0.2.1 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1077 silly install write writing ansi-regex 0.2.1 to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1078 verbose unbuild node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1079 verbose unbuild node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1080 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1081 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1082 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1083 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1084 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-regex\0.2.1\package.tgz
+1085 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1086 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex is being purged
+1087 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1088 verbose tar unpack C:\Users\Krunal\AppData\Roaming\npm-cache\ansi-regex\0.2.1\package.tgz
+1089 verbose tar unpacking to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1090 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex is being purged
+1091 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1092 silly gunzTarPerm modes [ '777', '666' ]
+1093 silly gunzTarPerm modes [ '777', '666' ]
+1094 silly gunzTarPerm extractEntry package.json
+1095 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+1096 silly gunzTarPerm extractEntry package.json
+1097 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+1098 silly gunzTarPerm extractEntry index.js
+1099 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1100 silly gunzTarPerm extractEntry readme.md
+1101 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1102 silly gunzTarPerm extractEntry index.js
+1103 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1104 silly gunzTarPerm extractEntry readme.md
+1105 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1106 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex\package.json
+1107 verbose write writing to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex\package.json
+1108 info preinstall ansi-regex@0.2.1
+1109 info preinstall ansi-regex@0.2.1
+1110 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex\package.json
+1111 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex\package.json
+1112 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex\package.json
+1113 verbose readDependencies loading dependencies from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex\package.json
+1114 silly install resolved []
+1115 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1116 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1117 silly install resolved []
+1118 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1119 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1120 info linkStuff ansi-regex@0.2.1
+1121 silly linkStuff ansi-regex@0.2.1 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules as its parent node_modules
+1122 info linkStuff ansi-regex@0.2.1
+1123 silly linkStuff ansi-regex@0.2.1 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules as its parent node_modules
+1124 verbose linkBins ansi-regex@0.2.1
+1125 verbose linkMans ansi-regex@0.2.1
+1126 verbose rebuildBundles ansi-regex@0.2.1
+1127 verbose linkBins ansi-regex@0.2.1
+1128 verbose linkMans ansi-regex@0.2.1
+1129 verbose rebuildBundles ansi-regex@0.2.1
+1130 info install ansi-regex@0.2.1
+1131 info install ansi-regex@0.2.1
+1132 info postinstall ansi-regex@0.2.1
+1133 info postinstall ansi-regex@0.2.1
+1134 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\ansi-regex-b109545cbf0b53af.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi\node_modules\ansi-regex
+1135 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+1136 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+1137 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\ansi-regex-6a58959fcddfc087.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi\node_modules\ansi-regex
+1138 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+1139 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+1140 info linkStuff has-ansi@0.1.0
+1141 silly linkStuff has-ansi@0.1.0 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules as its parent node_modules
+1142 info linkStuff strip-ansi@0.3.0
+1143 silly linkStuff strip-ansi@0.3.0 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules as its parent node_modules
+1144 verbose linkBins has-ansi@0.1.0
+1145 verbose link bins [ { 'has-ansi': 'cli.js' },
+1145 verbose link bins   'E:\\DA-IICT\\Sem 3\\Sen\\project Code\\web\\sen6\\node_modules\\node-svm\\node_modules\\chalk\\node_modules\\.bin',
+1145 verbose link bins   false ]
+1146 verbose linkMans has-ansi@0.1.0
+1147 verbose rebuildBundles has-ansi@0.1.0
+1148 verbose linkBins strip-ansi@0.3.0
+1149 verbose link bins [ { 'strip-ansi': 'cli.js' },
+1149 verbose link bins   'E:\\DA-IICT\\Sem 3\\Sen\\project Code\\web\\sen6\\node_modules\\node-svm\\node_modules\\chalk\\node_modules\\.bin',
+1149 verbose link bins   false ]
+1150 verbose linkMans strip-ansi@0.3.0
+1151 verbose rebuildBundles strip-ansi@0.3.0
+1152 verbose rebuildBundles [ 'ansi-regex' ]
+1153 verbose rebuildBundles [ 'ansi-regex' ]
+1154 info install strip-ansi@0.3.0
+1155 info postinstall strip-ansi@0.3.0
+1156 info install has-ansi@0.1.0
+1157 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\strip-ansi-156847db11b32ba5.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\strip-ansi
+1158 info postinstall has-ansi@0.1.0
+1159 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\has-ansi-51b9186322dc64c8.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk\node_modules\has-ansi
+1160 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+1161 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+1162 info linkStuff chalk@0.5.1
+1163 silly linkStuff chalk@0.5.1 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules as its parent node_modules
+1164 verbose linkBins chalk@0.5.1
+1165 verbose linkMans chalk@0.5.1
+1166 verbose rebuildBundles chalk@0.5.1
+1167 verbose rebuildBundles [ '.bin',
+1167 verbose rebuildBundles   'ansi-styles',
+1167 verbose rebuildBundles   'has-ansi',
+1167 verbose rebuildBundles   'strip-ansi',
+1167 verbose rebuildBundles   'supports-color' ]
+1168 info install chalk@0.5.1
+1169 info postinstall chalk@0.5.1
+1170 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\chalk-27784a32c6a4011c.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm\node_modules\chalk
+1171 verbose about to build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+1172 info build E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+1173 info linkStuff node-svm@2.1.8
+1174 silly linkStuff node-svm@2.1.8 has E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules as its parent node_modules
+1175 verbose linkBins node-svm@2.1.8
+1176 verbose link bins [ { 'node-svm': './bin/node-svm' },
+1176 verbose link bins   'E:\\DA-IICT\\Sem 3\\Sen\\project Code\\web\\sen6\\node_modules\\.bin',
+1176 verbose link bins   false ]
+1177 verbose linkMans node-svm@2.1.8
+1178 verbose rebuildBundles node-svm@2.1.8
+1179 verbose rebuildBundles [ '.bin', 'chalk', 'nopt' ]
+1180 info install node-svm@2.1.8
+1181 verbose unsafe-perm in lifecycle true
+1182 info node-svm@2.1.8 Failed to exec install script
+1183 verbose unlock done using C:\Users\Krunal\AppData\Roaming\npm-cache\_locks\node-svm-d3b45571ca42856a.lock for E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+1184 verbose stack Error: node-svm@2.1.8 install: `node-gyp rebuild`
+1184 verbose stack Exit status 1
+1184 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:217:16)
+1184 verbose stack     at emitTwo (events.js:87:13)
+1184 verbose stack     at EventEmitter.emit (events.js:172:7)
+1184 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+1184 verbose stack     at emitTwo (events.js:87:13)
+1184 verbose stack     at ChildProcess.emit (events.js:172:7)
+1184 verbose stack     at maybeClose (internal/child_process.js:827:16)
+1184 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+1185 verbose pkgid node-svm@2.1.8
+1186 verbose cwd E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1187 error Windows_NT 10.0.10240
+1188 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "node-svm"
+1189 error node v4.4.5
+1190 error npm  v2.15.5
+1191 error code ELIFECYCLE
+1192 error node-svm@2.1.8 install: `node-gyp rebuild`
+1192 error Exit status 1
+1193 error Failed at the node-svm@2.1.8 install script 'node-gyp rebuild'.
+1193 error This is most likely a problem with the node-svm package,
+1193 error not with npm itself.
+1193 error Tell the author that this fails on your system:
+1193 error     node-gyp rebuild
+1193 error You can get information on how to open an issue for this project with:
+1193 error     npm bugs node-svm
+1193 error Or if that isn't available, you can get their info via:
+1193 error
+1193 error     npm owner ls node-svm
+1193 error There is likely additional logging output above.
+1194 verbose exit [ 1, true ]
+1195 verbose unbuild node_modules\node-svm
+1196 info preuninstall node-svm@2.1.8
+1197 info uninstall node-svm@2.1.8
+1198 verbose unbuild rmStuff node-svm@2.1.8 from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules
+1199 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd is being gently removed
+1200 silly gentlyRm verifying E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is an npm working directory
+1201 silly gentlyRm containing path E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is under npm's control, in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1202 silly gentlyRm deletion target E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd is under E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1203 verbose gentlyRm vacuuming from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd up to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1204 silly vacuum-fs removing E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm.cmd
+1205 silly vacuum-fs quitting because other entries in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin
+1206 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm is being gently removed
+1207 silly gentlyRm verifying E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is an npm working directory
+1208 silly gentlyRm containing path E:\DA-IICT\Sem 3\Sen\project Code\web\sen6 is under npm's control, in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1209 silly gentlyRm deletion target E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm is under E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1210 verbose gentlyRm vacuuming from E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm up to E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1211 silly vacuum-fs removing E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin\node-svm
+1212 silly vacuum-fs quitting because other entries in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\.bin
+1213 info postuninstall node-svm@2.1.8
+1214 silly gentlyRm E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm is being purged from base E:\DA-IICT\Sem 3\Sen\project Code\web\sen6
+1215 verbose gentlyRm don't care about contents; nuking E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+1216 silly vacuum-fs purging E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules\node-svm
+1217 silly vacuum-fs quitting because other entries in E:\DA-IICT\Sem 3\Sen\project Code\web\sen6\node_modules

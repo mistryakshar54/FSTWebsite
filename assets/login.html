@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <!-- Material Design Lite -->
+   	<title>Login</title>
+   	<link rel="shortcut icon" href="images/favicon2.png">
+
+    
+    <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+    <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
+    <!-- Material Design icon font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>           
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script> 
+ 	<style type="text/css">
+ 		.loginform{
+
+   margin: auto;
+    width: 25%;
+    margin-top: 5%;
+    padding: 10px;
+}
+ 		
+ 	
+ 	</style>
+  </head>
+  <body>
+    <!-- Textfield with Floating Label -->
+    <div style="align:right" class="loginform">
+    <form action="./admin/login/validate" method="POST">
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+        <input class="mdl-textfield__input" type="text" id="sample3" name="fname" pattern="*">
+        <label class="mdl-textfield__label" for="sample3">User Name</label>
+      </div>
+      <br>
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+        <input class="mdl-textfield__input" name="pass" type="password" id="sample4">
+        <label class="mdl-textfield__label" for="sample4">Password</label>
+        <span class="mdl-textfield__error">Input is not a number!</span>
+      </div>
+      <br>
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+        <button class="btn waves-effect waves-teal" type="submit">Login <i class="material-icons right">send</i></button></td>
+      </div>
+    </form>
+    </div>
+  </body>
+</html>
